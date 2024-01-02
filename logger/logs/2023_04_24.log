@@ -1,0 +1,721 @@
+[2023-04-24 09:16:48,737] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:16:48,737] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:16:48,738] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:16:48,894] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:16:48,896] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:16:48,904] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:16:48,904] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:16:49,176] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:21:33,597] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:21:33,598] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:21:33,598] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:22:31,693] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:22:31,693] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:22:31,694] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:22:31,752] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:22:31,752] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:22:31,752] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:22:31,753] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:22:42,404] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:22:42,405] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:22:42,405] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:22:42,463] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:22:42,464] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:22:42,464] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:22:42,465] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:22:42,527] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:26:06,468] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:26:06,469] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:26:06,469] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:26:06,527] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:26:06,527] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:26:06,528] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:26:06,528] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:26:06,595] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:26:30,857] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:26:30,857] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:26:30,858] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:26:30,883] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:26:30,883] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:26:30,884] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:26:30,884] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:26:30,941] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:38:08,781] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:38:08,782] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:38:08,782] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:38:08,843] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:38:08,844] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:38:08,844] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:38:08,845] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:38:08,905] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:38:30,791] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:38:30,792] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:38:30,792] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:38:30,833] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:38:30,834] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:38:30,834] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:38:30,835] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:38:30,894] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:39:08,701] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:39:08,701] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:39:08,702] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:39:08,742] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:39:08,743] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:39:08,743] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:39:08,743] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:39:27,439] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:39:27,439] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:39:27,440] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:39:27,488] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:39:27,488] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:39:27,489] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:39:27,489] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:40:48,656] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:40:48,657] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:40:48,657] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:40:48,714] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:41:34,610] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:41:34,610] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:41:34,611] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:41:34,662] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:41:34,663] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:41:34,663] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:41:34,663] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:41:34,725] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 09:57:22,226] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 09:57:22,226] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 09:57:22,227] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 09:57:22,283] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 09:57:22,283] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 09:57:22,284] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 09:57:22,284] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 09:57:22,344] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:00:30,962] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:00:30,962] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:00:30,963] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:00:31,013] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:00:31,014] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:00:31,014] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:00:31,015] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 10:00:51,543] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:00:51,544] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:00:51,544] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:00:51,591] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:01:02,491] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:01:02,492] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:01:02,492] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:01:02,534] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:01:02,535] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:01:02,535] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:01:02,536] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 10:01:02,596] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:04:00,722] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:04:00,723] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:04:00,724] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:04:00,798] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:04:00,803] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:04:00,804] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:04:00,805] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": 1111599017, \"shortNo\": \"9999\"}"
+[2023-04-24 10:04:00,866] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:15:35,262] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:15:35,262] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:15:35,263] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:15:35,299] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:15:35,300] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:15:35,301] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:15:35,301] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 10:15:35,361] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:17:32,594] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:17:32,595] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:17:32,595] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:17:32,631] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:17:32,632] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:17:32,632] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:17:32,633] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 10:17:32,825] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:28:24,013] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:28:24,013] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:28:24,014] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:28:24,079] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:29:23,806] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:29:23,807] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:29:23,807] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:29:23,857] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:29:23,859] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:29:23,859] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:29:23,860] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:29:23,914] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:34:06,757] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:34:06,757] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:34:06,758] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:34:06,800] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:34:06,800] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:34:06,801] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:34:06,801] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:34:06,859] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:40:55,797] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:40:55,797] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:40:55,797] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:40:55,846] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:40:55,847] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:40:55,847] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:40:55,848] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:40:55,920] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:50:03,455] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:50:03,455] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:50:03,455] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:50:03,536] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:50:03,537] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:50:03,538] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:50:03,539] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:50:03,607] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:50:37,502] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:50:37,503] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:50:37,503] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:50:37,540] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:50:37,541] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:50:37,541] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:50:37,541] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:50:37,598] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:54:21,349] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:54:21,349] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:54:21,350] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:54:21,394] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:54:21,395] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:54:21,395] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:54:21,395] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:54:21,552] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -4, 'msg': '请求参数错误', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:55:48,374] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:55:48,374] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:55:48,375] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:55:48,430] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:55:48,431] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:55:48,431] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:55:48,431] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 10:55:48,535] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -4, 'msg': '请求参数错误', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 10:56:27,317] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:56:27,317] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:56:27,318] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:56:27,346] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:56:27,347] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 10:56:27,347] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 10:56:27,347] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 10:56:27,654] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '7c102820c1684c4034f91cef0c6e6a97'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 10:57:42,913] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 10:57:42,914] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 10:57:42,914] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 10:57:43,011] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:17:17,880] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:17:17,881] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 11:17:17,881] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:17:17,912] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:17:17,913] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:17:17,913] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:17:17,913] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-24 11:17:18,013] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -4, 'msg': '请求参数错误', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 11:17:42,277] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:17:42,277] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 11:17:42,278] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:17:42,320] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:17:42,321] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:17:42,321] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:17:42,321] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:17:42,630] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '5a8ff524652fee3e42eeaca79ad277e8'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:38:37,000] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:38:37,001] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-24 11:38:37,001] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:38:37,108] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:38:37,110] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:38:37,112] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:38:37,114] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:38:37,428] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8cea566804fef68101ab099d068516d4'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:46:40,682] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:46:40,682] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599014
+[2023-04-24 11:46:40,682] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:46:40,739] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:46:40,740] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:46:40,740] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/doRegister
+[2023-04-24 11:46:40,741] - logger_.py] - DEBUG: 接口请求的参数: {
+  "phone": "1111599014",
+  "shortNo": "9999",
+  "password": "",
+  "flag": "1",
+  "countryCode": "52",
+  "promotionChannels": "googlePlay"
+}
+[2023-04-24 11:48:10,111] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:48:10,111] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599014
+[2023-04-24 11:48:10,112] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:48:10,166] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:48:10,167] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:48:10,167] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/doRegister
+[2023-04-24 11:48:10,168] - logger_.py] - DEBUG: 接口请求的参数: "{\"phone\": \"1111599014\", \"shortNo\": \"9999\", \"password\": \"\", \"flag\": \"1\", \"countryCode\": \"52\", \"promotionChannels\": \"googlePlay\"}"
+[2023-04-24 11:48:10,435] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:48:10,438] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:48:10,439] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:48:10,508] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -4, 'msg': '手机号不能为空', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-24 11:48:40,582] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:48:40,583] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599014
+[2023-04-24 11:48:40,583] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:48:40,619] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:48:40,620] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:48:40,620] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:48:40,621] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599014\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:48:40,930] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '02b0687705dba3bc6ed9811943f267f9'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:49:02,167] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:49:02,168] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599011
+[2023-04-24 11:49:02,168] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:49:02,221] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:49:02,221] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:49:02,222] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/doRegister
+[2023-04-24 11:49:02,222] - logger_.py] - DEBUG: 接口请求的参数: "{\"phone\": \"1111599011\", \"shortNo\": \"9999\", \"password\": \"\", \"flag\": \"1\", \"countryCode\": \"52\", \"promotionChannels\": \"googlePlay\"}"
+[2023-04-24 11:49:02,472] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:49:02,474] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:49:02,474] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599011\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:49:02,779] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '296817a655458a3769edce532eee1498'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:56:29,791] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 11:56:29,791] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599110
+[2023-04-24 11:56:29,792] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 11:56:29,849] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 11:56:29,850] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:56:29,850] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/doRegister
+[2023-04-24 11:56:29,850] - logger_.py] - DEBUG: 接口请求的参数: "{\"phone\": \"1111599110\", \"shortNo\": \"9999\", \"password\": \"\", \"flag\": \"1\", \"countryCode\": \"52\", \"promotionChannels\": \"googlePlay\"}"
+[2023-04-24 11:56:30,111] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 11:56:30,113] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 11:56:30,115] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599110\", \"shortNo\": \"9999\"}"
+[2023-04-24 11:56:30,441] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '837de1c6c573cbb6cecd43c496ffce22'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 12:07:19,483] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 12:07:19,483] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599110
+[2023-04-24 12:07:19,483] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 12:07:19,527] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 12:07:19,528] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 12:07:19,528] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 12:07:19,528] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599110\", \"shortNo\": \"9999\"}"
+[2023-04-24 12:07:19,847] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '45419c0920515b05508ecba8fa8b7f62'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 15:18:15,876] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 15:18:15,876] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599110
+[2023-04-24 15:18:15,877] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 15:18:15,932] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 15:18:15,932] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:15,933] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 15:18:15,933] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599110\", \"shortNo\": \"9999\"}"
+[2023-04-24 15:18:16,259] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'f8ae99511a80f2c45735e3f0387e581c'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 15:18:16,265] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:18:16,266] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:16,267] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/userInfo/saveDeviceInfo
+[2023-04-24 15:18:16,267] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-24 15:18:16,416] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:18:16,421] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:18:16,423] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:18:16,432] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:16,433] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/userInfo/saveAddressBook
+[2023-04-24 15:18:16,433] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-24 15:18:16,791] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:18:16,797] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:18:16,798] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:18:16,799] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:16,800] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/loan/queryAvailableProduct
+[2023-04-24 15:18:16,800] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-24 15:18:17,362] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:18:17,364] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:18:17,365] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:18:17,366] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:17,367] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/market/submitOneProduct
+[2023-04-24 15:18:17,367] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-24 15:18:18,064] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-24 15:18:18,175] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:18:59,489] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 15:18:59,489] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599110
+[2023-04-24 15:18:59,490] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 15:18:59,573] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 15:18:59,574] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:59,575] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-24 15:18:59,576] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599110\", \"shortNo\": \"9999\"}"
+[2023-04-24 15:18:59,926] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'bc97261cea8c3a2f3f6ac0449fa1edb5'}, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-24 15:18:59,932] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:18:59,933] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:18:59,933] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/userInfo/saveDeviceInfo
+[2023-04-24 15:18:59,934] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-24 15:19:00,075] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:19:00,076] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:19:00,078] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:19:00,088] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:19:00,089] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/userInfo/saveAddressBook
+[2023-04-24 15:19:00,089] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-24 15:19:00,384] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:19:00,387] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:19:00,388] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:19:00,389] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:19:00,390] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/loan/queryAvailableProduct
+[2023-04-24 15:19:00,391] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-24 15:19:00,939] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-24 15:19:00,944] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:19:00,948] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:19:00,951] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:19:00,952] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/market/submitOneProduct
+[2023-04-24 15:19:00,952] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-24 15:19:01,292] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "Ignored_Trace",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-24 15:19:01,380] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:34:02,644] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 15:34:02,644] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/noAuth/logon/getRegisterStatus/52/1111599110
+[2023-04-24 15:34:02,645] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 15:34:02,695] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'success': True}
+[2023-04-24 15:34:02,695] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:34:02,696] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/noAuth/logon/doRegister
+[2023-04-24 15:34:02,704] - logger_.py] - DEBUG: 接口请求的参数: "{\"phone\": \"1111599110\", \"shortNo\": \"9999\", \"password\": \"\", \"flag\": \"1\", \"countryCode\": \"52\", \"promotionChannels\": \"googlePlay\"}"
+[2023-04-24 15:34:03,097] - logger_.py] - INFO: 调用-信贷注册接口报错
+[2023-04-24 15:34:03,104] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:34:03,105] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:34:03,106] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/userInfo/saveDeviceInfo
+[2023-04-24 15:34:03,106] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-24 15:34:03,145] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-24 15:34:03,229] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:34:03,239] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:34:03,240] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:34:03,241] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/userInfo/saveAddressBook
+[2023-04-24 15:34:03,241] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-24 15:34:03,281] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-24 15:34:03,285] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:34:03,287] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:34:03,288] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:34:03,289] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/loan/queryAvailableProduct
+[2023-04-24 15:34:03,289] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-24 15:34:03,332] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-24 15:34:03,337] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:34:03,339] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:34:03,341] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:34:03,342] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/market/submitOneProduct
+[2023-04-24 15:34:03,342] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-24 15:34:03,385] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-24 15:34:03,399] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:36:30,092] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-24 15:36:30,093] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/noAuth/logon/getRegisterStatus/63/9234241536
+[2023-04-24 15:36:30,093] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-24 15:36:30,133] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': False, 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'success': True}
+[2023-04-24 15:36:30,134] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:30,134] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/noAuth/logon/doRegister
+[2023-04-24 15:36:30,135] - logger_.py] - DEBUG: 接口请求的参数: "{\"phone\": \"9234241536\", \"shortNo\": \"9999\", \"password\": \"\", \"flag\": \"1\", \"countryCode\": \"63\", \"promotionChannels\": \"googlePlay\"}"
+[2023-04-24 15:36:30,444] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:30,444] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/noAuth/logon/login
+[2023-04-24 15:36:30,445] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"9234241536\", \"shortNo\": \"9999\"}"
+[2023-04-24 15:36:30,695] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '1327805961af6975a3a1daf46ffb65f0'}, 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'success': True}
+[2023-04-24 15:36:30,703] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:36:30,704] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:30,705] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/userInfo/saveDeviceInfo
+[2023-04-24 15:36:30,705] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-24 15:36:30,843] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "success": true
+}
+[2023-04-24 15:36:30,846] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:36:30,847] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:36:30,857] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:30,858] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/userInfo/saveAddressBook
+[2023-04-24 15:36:30,858] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-24 15:36:31,027] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "success": true
+}
+[2023-04-24 15:36:31,030] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:36:31,032] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:36:31,034] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:31,035] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/loan/queryAvailableProduct
+[2023-04-24 15:36:31,035] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-24 15:36:31,451] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "AVAILABLE_PRODUCT_IS_EMPTY",
+  "data": null,
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "success": false
+}
+[2023-04-24 15:36:31,527] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-24 15:36:31,528] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-24 15:36:31,530] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-24 15:36:31,530] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31669/hc/app/market/submitOneProduct
+[2023-04-24 15:36:31,531] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-24 15:36:31,735] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "Please try again later\uff01",
+  "data": null,
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "success": false
+}
+[2023-04-24 15:36:31,749] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------

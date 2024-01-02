@@ -1,0 +1,451 @@
+[2023-05-19 14:57:13,539] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 14:57:13,540] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 14:57:13,540] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 14:57:13,620] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.154.16844794325140195', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 14:57:13,622] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 14:57:13,623] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 14:57:13,624] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 14:57:13,962] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '7de7d04b5dc248dbebaca671c5ef622b'}, 'traceId': '5bced787104f4283be389fe943bd4627.155.16844794325970197', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 14:57:13,971] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 14:57:13,971] - logger_.py] - INFO: 测试用例标题:None
+[2023-05-19 14:57:13,972] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 14:57:13,973] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 14:57:13,973] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 14:57:14,381] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.157.16844794329460195",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 14:57:14,391] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 14:59:42,705] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 14:59:42,706] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 14:59:42,706] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 14:59:42,749] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.157.16844795816760203', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 14:59:42,750] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 14:59:42,750] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 14:59:42,751] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 14:59:43,071] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8afbded57536ebc96a88bbbfc2be654c'}, 'traceId': '5bced787104f4283be389fe943bd4627.162.16844795817190209', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 14:59:43,080] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 14:59:43,081] - logger_.py] - INFO: 测试用例标题:保存贷超用户信息-异常用例
+[2023-05-19 14:59:43,083] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 14:59:43,083] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 14:59:43,084] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 14:59:43,465] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.161.16844795820530201",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 14:59:43,470] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:02:01,609] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:02:01,610] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:02:01,610] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:02:01,666] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.159.16844797205780211', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:02:01,667] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:02:01,667] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:02:01,668] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:02:01,995] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '9c122c0fee361e590fc28750f77dd3e5'}, 'traceId': '5bced787104f4283be389fe943bd4627.158.16844797206340207', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:02:02,004] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:02:02,004] - logger_.py] - INFO: 测试用例标题:保存贷超用户信息-异常用例
+[2023-05-19 15:02:02,005] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:02:02,006] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:02:02,006] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:02:02,383] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.156.16844797209720207",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:02:02,397] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:06:33,873] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:06:33,874] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:06:33,874] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:06:33,934] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.160.16844799928380207', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:06:33,935] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:06:33,936] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:06:33,937] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:06:34,275] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ccbb09e61334428cbd90e4a7a0093c36'}, 'traceId': '5bced787104f4283be389fe943bd4627.163.16844799928990207', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:06:34,282] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:06:34,282] - logger_.py] - INFO: 测试用例标题:保存贷超用户信息-异常用例
+[2023-05-19 15:06:34,284] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:06:34,284] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:06:34,284] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:06:34,647] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.154.16844799932470205",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:06:34,661] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:06:34,663] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:06:34,663] - logger_.py] - INFO: 测试用例标题:保存贷超用户信息-异常用例
+[2023-05-19 15:06:34,664] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:06:34,665] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:06:34,665] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:06:35,027] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.155.16844799936270207",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:06:35,039] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:09:46,699] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:09:46,700] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:09:46,700] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:09:46,753] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.157.16844801856600205', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:09:46,753] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:09:46,754] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:09:46,754] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:09:47,090] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'cdb86da185eb8c5b87a768bd08d96370'}, 'traceId': '5bced787104f4283be389fe943bd4627.162.16844801857130211', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:09:47,113] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:09:47,114] - logger_.py] - INFO: 测试用例的标题:保存贷超用户信息-异常用例
+[2023-05-19 15:09:47,117] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:09:47,118] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:09:47,118] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:09:47,486] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.161.16844801860830203",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:09:47,492] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:09:47,494] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:09:47,494] - logger_.py] - INFO: 测试用例的标题:保存贷超用户信息-异常用例
+[2023-05-19 15:09:47,495] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:09:47,496] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:09:47,496] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:09:47,867] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.159.16844801864550213",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:09:47,883] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:14:00,664] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:14:00,665] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:14:00,665] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:14:00,735] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.158.16844804396220209', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:14:00,736] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:14:00,737] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:14:00,737] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:14:01,077] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8705783f1e8489ef5f3936c42c7932c5'}, 'traceId': '5bced787104f4283be389fe943bd4627.156.16844804396930209', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:14:01,101] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:14:01,103] - logger_.py] - INFO: 保存贷超用户信息-正常用例
+[2023-05-19 15:14:01,104] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:14:01,105] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:14:01,106] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:14:01,466] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.160.16844804400630209",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:14:01,474] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:14:01,476] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+[2023-05-19 15:14:01,478] - logger_.py] - INFO: 保存贷超用户信息-异常用例
+[2023-05-19 15:14:01,478] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:14:01,479] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:14:01,479] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:14:01,889] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.163.16844804404350209",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:14:01,895] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+
+[2023-05-19 15:17:54,749] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:17:54,750] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:17:54,750] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:17:54,802] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.154.16844806737020207', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:17:54,803] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:17:54,804] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:17:54,804] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:17:55,502] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'e674c7a444b08581202fff964ad149bb'}, 'traceId': '5bced787104f4283be389fe943bd4627.155.16844806737560209', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:17:55,511] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-19 15:17:55,512] - logger_.py] - INFO: 保存贷超用户信息-正常用例
+[2023-05-19 15:17:55,513] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:17:55,513] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:17:55,514] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"1982-01-01\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:17:55,888] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.157.16844806744660207",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:17:55,904] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-19 15:17:55,906] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-19 15:17:55,907] - logger_.py] - INFO: 保存贷超用户信息-异常用例
+[2023-05-19 15:17:55,907] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:17:55,908] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/saveMarketInfo
+[2023-05-19 15:17:55,908] - logger_.py] - DEBUG: 接口请求的参数: "{\"appList\": [], \"applyLoanAmount\": \"\", \"attach\": [{\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206062327185031.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206062327185031.jpeg\", \"originalAttachName\": \"front_1683889572847_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzzm\"}, {\"attachName\": \"\", \"channel\": \"app\", \"newName\": \"2023051206063227242177.jpeg\", \"newPathName\": \"/upload/image/20230512/2023051206063227242177.jpeg\", \"originalAttachName\": \"back_1683889581999_pic.jpg\", \"originalName\": \"\", \"path\": \"/upload/image/20230512\", \"purpose\": \"sfzfm\"}], \"bank\": {\"idCard\": \"D25005500580000000\"}, \"base\": {\"birthday\": \"\", \"childNum\": \"0\", \"education\": \"1\", \"email\": \"gfhh@163.com\", \"familyName\": \"gvhh\", \"givenName\": \"ggb\", \"instancyContacts\": [{\"addressBookId\": \"2669\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"ahjhv\", \"contactPhone\": \"037123883\", \"contactRealName\": \"ahjhv\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-03-28 15:23:40\", \"percent\": \"\", \"saveTime\": \"2023-03-28 15:23:40\"}, {\"addressBookId\": \"246\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djfj\", \"contactPhone\": \"999 938 869\", \"contactRealName\": \"djfj\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"lastTime\": \"2023-05-10 14:33:18\", \"percent\": \"\", \"saveTime\": \"2023-05-10 14:33:18\"}, {\"addressBookId\": \"242\", \"canEdit\": false, \"canFocus\": false, \"contactName\": \"djjdjd\", \"contactPhone\": \"934 654 666\", \"contactRealName\": \"djjdjd\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"lastTime\": \"2023-04-17 14:22:04\", \"percent\": \"\", \"saveTime\": \"2023-04-17 14:22:04\"}], \"maritalStatus\": \"1\", \"middleName\": \"ch\", \"placeAddress\": \"hhh\", \"placeCity\": \"006006\", \"placeCounty\": \"\", \"placeProvince\": \"006\", \"placeTime\": \"\", \"sex\": \"1\", \"whatsApp\": \"2100558855\"}, \"configPayout\": true, \"customerSource\": \"\", \"firstExpectAmount\": \"\", \"firstExpectDay\": \"\", \"livenessId\": \"\", \"merchantNo\": \"\", \"ocrData\": {\"ocrType\": \"advance\"}, \"orgNo\": \"\", \"payoutPaymentConfig\": {\"bankConfig\": {\"accountType\": {\"label\": \"\", \"value\": \"\"}, \"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"paymentChildKey\": {\"label\": \"Bank\", \"value\": \"bank\"}, \"paymentTypeKey\": {\"label\": \"Bank transfer\", \"value\": \"bank\"}}, \"productNo\": \"\", \"promotionChannels\": \"\", \"work\": {\"income\": \"3\", \"payDay\": \"\", \"post\": \"0\", \"salaryType\": \"0\", \"secondPayDay\": \"\", \"sourceIncome\": \"0\", \"workPost\": \"1\", \"workTime\": \"0\"}}"
+[2023-05-19 15:17:56,371] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5bced787104f4283be389fe943bd4627.162.16844806748600213",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:17:56,377] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-19 15:17:56,379] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-19 15:17:56,380] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:17:56,380] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/marketInfo/getMarketInfo
+[2023-05-19 15:17:56,381] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-19 15:17:56,657] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "base": {
+      "familyName": "gvhh",
+      "givenName": "ggb",
+      "middleName": "ch",
+      "birthday": "1982-01-01",
+      "childNum": "0",
+      "education": "1",
+      "email": "gfhh@163.com",
+      "maritalStatus": "1",
+      "placeAddress": "hhh",
+      "placeProvince": "006",
+      "placeCity": "006006",
+      "placeCounty": "",
+      "sex": "1",
+      "whatsApp": "2100558855",
+      "instancyContacts": [
+        {
+          "contactRelation": "0",
+          "contactPhone": "037123883",
+          "contactName": "ahjhv",
+          "contactRealName": "ahjhv",
+          "lastTime": "2023-03-28 15:23:40",
+          "saveTime": "2023-03-28 15:23:40",
+          "addressBookId": "2669"
+        },
+        {
+          "contactRelation": "1",
+          "contactPhone": "999 938 869",
+          "contactName": "djfj",
+          "contactRealName": "djfj",
+          "lastTime": "2023-05-10 14:33:18",
+          "saveTime": "2023-05-10 14:33:18",
+          "addressBookId": "246"
+        },
+        {
+          "contactRelation": "0",
+          "contactPhone": "934 654 666",
+          "contactName": "djjdjd",
+          "contactRealName": "djjdjd",
+          "lastTime": "2023-04-17 14:22:04",
+          "saveTime": "2023-04-17 14:22:04",
+          "addressBookId": "242"
+        }
+      ],
+      "loanUseType": "",
+      "issueTime": null,
+      "expireTime": null
+    },
+    "work": {
+      "income": "3",
+      "payDay": "",
+      "post": "0",
+      "sourceIncome": "0",
+      "salaryType": 0,
+      "secondPayDay": "",
+      "workTime": "0",
+      "workPost": "1"
+    },
+    "attach": [
+      {
+        "channel": "app",
+        "newName": "2023051206062327185031.jpeg",
+        "newPathName": "/upload/image/20230512/2023051206062327185031.jpeg",
+        "originalAttachName": "front_1683889572847_pic.jpg",
+        "path": "/upload/image/20230512",
+        "purpose": "sfzzm"
+      },
+      {
+        "channel": "app",
+        "newName": "2023051206063227242177.jpeg",
+        "newPathName": "/upload/image/20230512/2023051206063227242177.jpeg",
+        "originalAttachName": "back_1683889581999_pic.jpg",
+        "path": "/upload/image/20230512",
+        "purpose": "sfzfm"
+      }
+    ],
+    "ocrData": {
+      "cardType": "",
+      "transactionId": "",
+      "ocrType": "advance"
+    },
+    "bank": {
+      "idCard": "D25005500580000000"
+    },
+    "payoutPaymentConfig": {
+      "bankConfig": null
+    }
+  },
+  "traceId": "5bced787104f4283be389fe943bd4627.161.16844806753320205",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:17:56,665] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-19 15:31:05,726] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:31:05,727] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:31:05,727] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:31:05,777] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.156.16844814646680213', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:31:05,777] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:31:05,778] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:31:05,778] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:31:06,081] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '09dbce6bb814d5d6140d5700f55e20cd'}, 'traceId': '5bced787104f4283be389fe943bd4627.160.16844814647170213', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:31:06,088] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-19 15:31:06,089] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:31:06,090] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/market/ocr/count/config
+[2023-05-19 15:31:06,090] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-19 15:31:06,148] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": 3,
+  "traceId": "5bced787104f4283be389fe943bd4627.163.16844814650300213",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:31:06,149] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-19 15:46:11,396] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:46:11,397] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-19 15:46:11,397] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-19 15:46:11,453] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5bced787104f4283be389fe943bd4627.159.16844823703240243', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:46:11,454] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-19 15:46:11,454] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-19 15:46:11,455] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-19 15:46:11,758] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'fa67f88114262de985b2d8dfdfbb41c2'}, 'traceId': '5bced787104f4283be389fe943bd4627.155.16844823703790239', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-19 15:46:11,766] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-19 15:46:11,767] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-19 15:46:11,767] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/market/ocr/count/config
+[2023-05-19 15:46:11,768] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-19 15:46:11,831] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": 3,
+  "traceId": "5bced787104f4283be389fe943bd4627.156.16844823706920237",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-19 15:46:11,833] - logger_.py] - INFO: -----------------------分割线-----------------------
+

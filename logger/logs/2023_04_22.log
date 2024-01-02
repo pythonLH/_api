@@ -1,0 +1,154 @@
+[2023-04-22 18:17:53,116] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:17:53,116] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:17:53,117] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:17:53,159] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:17:53,160] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:17:53,160] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/login
+[2023-04-22 18:17:53,160] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:17:53,235] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:19:18,423] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:19:18,423] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:19:18,424] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:19:18,459] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:19:18,460] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:19:18,460] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/login
+[2023-04-22 18:19:18,460] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:19:18,527] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:21:01,902] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:21:01,902] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:21:01,903] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:21:01,950] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:21:01,951] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:21:01,951] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/login
+[2023-04-22 18:21:01,951] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:21:02,025] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:24:44,127] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:24:44,127] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:24:44,128] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:24:44,201] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:24:44,202] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:24:44,203] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/noAuth/logon/login
+[2023-04-22 18:24:44,203] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:24:44,277] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:25:53,140] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:25:53,140] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:25:53,140] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:25:53,193] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:25:53,193] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:25:53,194] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:25:53,194] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:25:53,270] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:27:56,370] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:27:56,370] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:27:56,371] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:27:56,432] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:27:56,433] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:27:56,433] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:27:56,434] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:27:56,523] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:28:47,431] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:28:47,431] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:28:47,431] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:28:47,473] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:28:47,473] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:28:47,474] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:28:47,475] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:28:47,547] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:31:29,899] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:31:29,900] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:31:29,900] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:31:29,952] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:31:29,952] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:31:29,953] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:31:29,953] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:31:30,027] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:34:08,000] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:34:08,000] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:34:08,001] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:34:08,045] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:34:08,045] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:34:08,046] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:44:50,802] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:44:50,803] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:44:50,803] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:44:50,871] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:44:50,872] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:44:50,872] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:44:50,872] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:44:50,942] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:49:45,896] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:49:45,897] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:49:45,897] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:49:45,958] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:49:45,958] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:49:45,958] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:49:45,959] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:49:46,036] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:50:02,503] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:50:02,503] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:50:02,504] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:50:02,545] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:50:02,545] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:50:02,545] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:50:02,546] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:50:02,618] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:50:55,406] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:50:55,406] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:50:55,407] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:50:55,446] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:50:55,447] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:50:55,447] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:50:55,448] - logger_.py] - DEBUG: 接口请求的参数: {
+  "promotionChannels": "googlePlay",
+  "password": "",
+  "flag": 1,
+  "phone": "1111599017",
+  "shortNo": "9999"
+}
+[2023-04-22 18:50:55,523] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:51:39,982] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:51:39,982] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:51:39,983] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:51:40,028] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:51:40,028] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:51:40,028] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:51:40,029] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:51:40,095] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}
+[2023-04-22 18:58:00,389] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-04-22 18:58:00,389] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-04-22 18:58:00,390] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-04-22 18:58:00,431] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-04-22 18:58:00,432] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-22 18:58:00,432] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-04-22 18:58:00,433] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-04-22 18:58:00,498] - logger_.py] - INFO: 调用-信贷登录接口：{'code': -1, 'msg': '服务器忙', 'data': None, 'traceId': 'Ignored_Trace', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': False}

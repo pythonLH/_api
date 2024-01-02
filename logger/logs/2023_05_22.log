@@ -1,0 +1,3208 @@
+[2023-05-22 15:42:34,654] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:42:34,654] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:42:34,655] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:42:34,702] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16847413535480177', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:42:34,703] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:34,703] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:42:34,704] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:42:35,039] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '09e01e4188b3c55c0e9cc219280e2195'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847413535950177', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:42:35,047] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:42:35,049] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:35,049] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:42:35,050] - logger_.py] - DEBUG: 接口请求的参数: "orgNo"
+[2023-05-22 15:42:35,282] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847413539490175",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:42:35,437] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:42:35,439] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:42:35,440] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:35,441] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:42:35,441] - logger_.py] - DEBUG: 接口请求的参数: "merchantNo"
+[2023-05-22 15:42:35,685] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847413543330181",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:42:35,699] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:42:35,700] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:42:35,701] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:35,702] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:42:35,702] - logger_.py] - DEBUG: 接口请求的参数: "newName"
+[2023-05-22 15:42:35,901] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847413545940185",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:42:35,911] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:42:35,913] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:42:35,915] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:35,916] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:42:35,916] - logger_.py] - DEBUG: 接口请求的参数: "newPathName"
+[2023-05-22 15:42:36,125] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847413548080171",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:42:36,133] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:42:36,136] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:42:36,141] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:42:36,142] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:42:36,143] - logger_.py] - DEBUG: 接口请求的参数: "packageName"
+[2023-05-22 15:42:36,349] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847413550350181",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:42:36,357] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:43:34,031] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:43:34,032] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:43:34,032] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:43:34,073] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16847414129230195', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:43:34,074] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:43:34,075] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:43:34,075] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:43:34,384] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '35bafd97ddafe16e3f9401a762e37e58'}, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847414129640195', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:44:51,699] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:44:51,699] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:44:51,700] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:44:51,745] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847414905890211', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:44:51,746] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:44:51,746] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:44:51,747] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:44:52,058] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '04efef4895c7e450a9f8e1d1eeec53e7'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847414906350205', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:44:52,065] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:44:52,066] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:44:52,066] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:44:52,067] - logger_.py] - DEBUG: 接口请求的参数: "{\"orgNo\": \"MEX\", \"merchantNo\": \"02\", \"newName\": \"20230515040745446488.jpeg\", \"newPathName\": \"/upload/image/20230515/20230515040745446488.jpeg\", \"packageName\": \"com.ahorrar.dinero.chancheuklung\"}"
+[2023-05-22 15:44:55,039] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "values": {
+      "birthday": null,
+      "birthdayAdapter": null,
+      "addressAll": "C ROSAS DE MAYO 82 COL BENITO JUAREZ 57000 NEZAHUALCOYOTL, MEX.",
+      "gender": null,
+      "fatherLastName": "PEREZ",
+      "postalCode": "",
+      "fullName": "PEREZ HERNANDEZ ANA",
+      "expiryYear": "2025",
+      "idNumber": "PEHA760303MMCRRN03",
+      "registrationYearAndMonth": "200209",
+      "placeNumber": "0001",
+      "electionSectionNumber": "3465",
+      "issueYear": "2015",
+      "stateNumber": "15",
+      "district": "",
+      "motherLastName": "HERNANDEZ",
+      "name": "ANA",
+      "voterId": "PRHRAN76030315M200",
+      "invoice": "",
+      "state": "",
+      "subDistrict": "",
+      "age": "",
+      "municipalNumber": "060"
+    },
+    "transactionId": "hc#bdc0a2208a4c429f86b7d44be64082ce",
+    "cardType": "INE_OR_IFE_FRONT"
+  },
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847414909560201",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 15:44:55,042] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:49:43,536] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:49:43,537] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:49:43,537] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:49:43,588] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16847417824220207', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:49:43,588] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:49:43,589] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:49:43,589] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:49:43,898] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '7120f278147c01f213912d546a815292'}, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16847417824730199', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:49:43,905] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:49:43,906] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:49:43,906] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:49:43,907] - logger_.py] - DEBUG: 接口请求的参数: {
+  "orgNo": "MEX",
+  "merchantNo": "02",
+  "newName": "20230515040745446488.jpeg",
+  "newPathName": "/upload/image/20230515/20230515040745446488.jpeg",
+  "packageName": "com.ahorrar.dinero.chancheuklung"
+}
+[2023-05-22 15:49:44,140] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847417827910207",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:49:44,255] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:49:44,256] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:49:44,267] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:49:44,268] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:49:44,268] - logger_.py] - DEBUG: 接口请求的参数: {
+  "orgNo": "MEX",
+  "merchantNo": "02",
+  "newName": "2023052121062717033880.jpeg",
+  "newPathName": "/upload/image/20230515/20230515040745446488.jpeg",
+  "packageName": "com.ahorrar.dinero.chancheuklung"
+}
+[2023-05-22 15:49:44,474] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847417831520211",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 15:49:44,479] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:50:32,374] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:50:32,375] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:50:32,375] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:50:32,417] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16847418312600213', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:50:32,418] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:50:32,419] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:50:32,419] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:50:32,729] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '840954dad269b1bf04324d9b096700ca'}, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847418313020213', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:50:32,737] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:50:32,738] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:50:32,739] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:50:32,739] - logger_.py] - DEBUG: 接口请求的参数: "{\"orgNo\": \"MEX\", \"merchantNo\": \"02\", \"newName\": \"20230515040745446488.jpeg\", \"newPathName\": \"/upload/image/20230515/20230515040745446488.jpeg\", \"packageName\": \"com.ahorrar.dinero.chancheuklung\"}"
+[2023-05-22 15:50:36,024] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "values": {
+      "birthday": null,
+      "birthdayAdapter": null,
+      "addressAll": "C ROSAS DE MAYO 82 COL BENITO JUAREZ 57000 NEZAHUALCOYOTL, MEX.",
+      "gender": null,
+      "fatherLastName": "PEREZ",
+      "postalCode": "",
+      "fullName": "PEREZ HERNANDEZ ANA",
+      "expiryYear": "2025",
+      "idNumber": "PEHA760303MMCRRN03",
+      "registrationYearAndMonth": "200209",
+      "placeNumber": "0001",
+      "electionSectionNumber": "3465",
+      "issueYear": "2015",
+      "stateNumber": "15",
+      "district": "",
+      "motherLastName": "HERNANDEZ",
+      "name": "ANA",
+      "voterId": "PRHRAN76030315M200",
+      "invoice": "",
+      "state": "",
+      "subDistrict": "",
+      "age": "",
+      "municipalNumber": "060"
+    },
+    "transactionId": "hc#90ec229fadf7443a9e0b2a08742f72f9",
+    "cardType": "INE_OR_IFE_FRONT"
+  },
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16847418316230207",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 15:50:36,027] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:50:36,029] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:50:36,030] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:50:36,030] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:50:36,030] - logger_.py] - DEBUG: 接口请求的参数: "{\"orgNo\": \"MEX\", \"merchantNo\": \"02\", \"newName\": \"2023052121062717033880.jpeg\", \"newPathName\": \"/upload/image/20230515/20230515040745446488.jpeg\", \"packageName\": \"com.ahorrar.dinero.chancheuklung\"}"
+[2023-05-22 15:50:38,236] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "values": {
+      "birthday": null,
+      "birthdayAdapter": null,
+      "addressAll": "C ROSAS DE MAYO 82 COL BENITO JUAREZ 57000 NEZAHUALCOYOTL, MEX.",
+      "gender": null,
+      "fatherLastName": "PEREZ",
+      "postalCode": "",
+      "fullName": "PEREZ HERNANDEZ ANA",
+      "expiryYear": "2025",
+      "idNumber": "PEHA760303MMCRRN03",
+      "registrationYearAndMonth": "200209",
+      "placeNumber": "0001",
+      "electionSectionNumber": "3465",
+      "issueYear": "2015",
+      "stateNumber": "15",
+      "district": "",
+      "motherLastName": "HERNANDEZ",
+      "name": "ANA",
+      "voterId": "PRHRAN76030315M200",
+      "invoice": "",
+      "state": "",
+      "subDistrict": "",
+      "age": "",
+      "municipalNumber": "060"
+    },
+    "transactionId": "hc#e76d0e56b2b843d7a86b62327bce9da2",
+    "cardType": "INE_OR_IFE_FRONT"
+  },
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847418349130203",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 15:50:38,239] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:53:24,924] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 15:53:24,924] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 15:53:24,925] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 15:53:24,978] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847420038060211', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:53:24,979] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:53:24,979] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 15:53:24,980] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 15:53:25,290] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '0c208b160a52b4b3d22caf22f0791b72'}, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16847420038600205', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 15:53:25,302] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:53:25,304] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:53:25,305] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:53:25,306] - logger_.py] - DEBUG: 接口请求的参数: "{\"orgNo\": \"MEX\", \"merchantNo\": \"02\", \"newName\": \"20230515040745446488.jpeg\", \"newPathName\": \"/upload/image/20230515/20230515040745446488.jpeg\", \"packageName\": \"com.ahorrar.dinero.chancheuklung\"}"
+[2023-05-22 15:53:28,639] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "values": {
+      "birthday": null,
+      "birthdayAdapter": null,
+      "addressAll": "C ROSAS DE MAYO 82 COL BENITO JUAREZ 57000 NEZAHUALCOYOTL, MEX.",
+      "gender": null,
+      "fatherLastName": "PEREZ",
+      "postalCode": "",
+      "fullName": "PEREZ HERNANDEZ ANA",
+      "expiryYear": "2025",
+      "idNumber": "PEHA760303MMCRRN03",
+      "registrationYearAndMonth": "200209",
+      "placeNumber": "0001",
+      "electionSectionNumber": "3465",
+      "issueYear": "2015",
+      "stateNumber": "15",
+      "district": "",
+      "motherLastName": "HERNANDEZ",
+      "name": "ANA",
+      "voterId": "PRHRAN76030315M200",
+      "invoice": "",
+      "state": "",
+      "subDistrict": "",
+      "age": "",
+      "municipalNumber": "060"
+    },
+    "transactionId": "hc#80fb28d4d0cc402a9a7389622fa2a1ce",
+    "cardType": "INE_OR_IFE_FRONT"
+  },
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847420041880209",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 15:53:28,641] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 15:53:28,643] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 15:53:28,644] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 15:53:28,645] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/thirdparty/advance/card/ocr
+[2023-05-22 15:53:28,645] - logger_.py] - DEBUG: 接口请求的参数: "{\"orgNo\": \"MEX\", \"merchantNo\": \"02\", \"newName\": \"2023052121062717033880.jpeg\", \"newPathName\": \"/upload/image/20230521/2023052121062717033880.jpeg\", \"packageName\": \"com.ahorrar.dinero.chancheuklung\"}"
+[2023-05-22 15:53:30,346] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": {
+    "values": {
+      "birthday": null,
+      "birthdayAdapter": null,
+      "addressAll": "  ",
+      "gender": null,
+      "fatherLastName": "",
+      "postalCode": "",
+      "fullName": "  ",
+      "expiryYear": "",
+      "idNumber": "",
+      "registrationYearAndMonth": "",
+      "placeNumber": "",
+      "electionSectionNumber": "",
+      "issueYear": "",
+      "stateNumber": "",
+      "district": "",
+      "motherLastName": "",
+      "name": "",
+      "voterId": "",
+      "invoice": "",
+      "state": "",
+      "subDistrict": "",
+      "age": "",
+      "municipalNumber": ""
+    },
+    "transactionId": "hc#afafd7eb934c4b0baf3f6a1290398f45",
+    "cardType": "INE_OR_IFE_FRONT"
+  },
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847420075260201",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 15:53:30,348] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:00:30,780] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:00:30,780] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:00:30,781] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:00:30,823] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847424296560221', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:00:30,824] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:00:30,824] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 16:00:30,825] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:00:31,144] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '030e4b53c3741ad10739abfe38643cc4'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847424296980219', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:00:31,152] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:00:31,153] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:00:31,153] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:00:31,154] - logger_.py] - DEBUG: 接口请求的参数: 0
+[2023-05-22 16:00:31,225] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16847424300270213",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:00:31,226] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:05:01,415] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:05:01,416] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:05:01,416] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:05:01,452] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16847427002860245', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:05:01,452] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:05:01,453] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/logon/login
+[2023-05-22 16:05:01,453] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:05:01,760] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '9117b14dff4065209ae966c9e963c219'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847427003220237', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:05:01,767] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:05:01,768] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:05:01,768] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:05:01,769] - logger_.py] - DEBUG: 接口请求的参数: 0
+[2023-05-22 16:05:01,838] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16847427006380241",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:05:01,839] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:05:01,848] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:05:01,849] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:05:01,850] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7037/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 16:05:01,850] - logger_.py] - DEBUG: 接口请求的参数: 1
+[2023-05-22 16:05:02,001] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:06:40,848] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:06:40,849] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:06:40,850] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:06:40,900] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847427997280243', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:06:40,900] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:06:40,901] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 16:06:40,901] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:06:41,216] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '86894b61e2c26fe561030bec28285ceb'}, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16847427997740251', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:06:41,232] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:06:41,234] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:06:41,235] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:06:41,236] - logger_.py] - DEBUG: 接口请求的参数: 0
+[2023-05-22 16:06:41,316] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847428001110249",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:06:41,321] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:06:41,328] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:06:41,330] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:06:41,331] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 16:06:41,331] - logger_.py] - DEBUG: 接口请求的参数: 1
+[2023-05-22 16:06:41,482] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:07:58,749] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:07:58,750] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:07:58,750] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:07:58,801] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16847428776230245', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:07:58,802] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:07:58,802] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 16:07:58,803] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:07:59,142] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'fbed78890de9b8cf133b951689fcf36b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16847428776790251', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:07:59,154] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:07:59,156] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:07:59,157] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:07:59,158] - logger_.py] - DEBUG: 接口请求的参数: 0
+[2023-05-22 16:07:59,240] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847428780320243",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:07:59,246] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:07:59,253] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:07:59,257] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:07:59,258] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 16:07:59,260] - logger_.py] - DEBUG: 接口请求的参数: "1"
+[2023-05-22 16:07:59,335] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847428781320241",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:07:59,337] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:08:15,574] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:08:15,575] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:08:15,575] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:08:15,625] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847428944580249', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:08:15,626] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:08:15,627] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 16:08:15,627] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:08:15,962] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '5e8cba7813430d949dee2f10d385931b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847428945020253', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:08:15,977] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:08:15,980] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:08:15,981] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:08:15,982] - logger_.py] - DEBUG: 接口请求的参数: "0"
+[2023-05-22 16:08:16,051] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847428948530255",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:08:16,056] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:08:16,059] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:08:16,061] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:08:16,061] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 16:08:16,062] - logger_.py] - DEBUG: 接口请求的参数: "1"
+[2023-05-22 16:08:16,135] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847428949360257",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:08:16,140] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:09:32,980] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:09:32,981] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 16:09:32,981] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 16:09:33,028] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847429718520261', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:09:33,029] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 16:09:33,029] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 16:09:33,030] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 16:09:33,355] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '4afe5afb1d9468d02536f6a6a7c74f7f'}, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16847429718990251', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 16:09:33,368] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:09:33,371] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:09:33,372] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 16:09:33,373] - logger_.py] - DEBUG: 接口请求的参数: "0"
+[2023-05-22 16:09:33,452] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847429722470249",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:09:33,455] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 16:09:33,464] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 16:09:33,465] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 16:09:33,465] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 16:09:33,466] - logger_.py] - DEBUG: 接口请求的参数: "1"
+[2023-05-22 16:09:33,537] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847429723380257",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 16:09:33,538] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:56,933] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:28:56,934] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:28:56,934] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:28:57,013] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16847477357300293', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:28:57,014] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:57,015] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:28:57,016] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:28:57,336] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8ed4759696f17f25b84a45943f07052b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847477358130291', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:28:57,347] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:57,348] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:57,348] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:57,349] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"226\", \"contactName\": \"Mex10\", \"contactPhone\": \"12 369 325 87\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1667961289394\", \"saveTime\": \"1667961289394\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:57,564] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847477361440289",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:57,692] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:57,693] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:57,695] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:57,696] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:57,696] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"227\", \"contactName\": \"Mex11\", \"contactPhone\": \"963 5804501\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1667961308818\", \"saveTime\": \"1667961308818\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:57,947] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847477365130283",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:57,965] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:57,969] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:57,975] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:57,975] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:57,976] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"293\", \"contactName\": \"BA PER\", \"contactPhone\": \"0945-555-5555\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704588376\", \"saveTime\": \"1683704588376\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:58,198] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847477367730297",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:58,205] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:58,206] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:58,211] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:58,211] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:58,212] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"294\", \"contactName\": \"Look PER\", \"contactPhone\": \"0051-1-31000004\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382422378\", \"saveTime\": \"1679382422378\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:58,416] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847477370050291",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:58,423] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:58,424] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:58,431] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:58,431] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:58,432] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"295\", \"contactName\": \"+51TAB PER\", \"contactPhone\": \"+51139999997\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382735798\", \"saveTime\": \"1679382735798\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:58,643] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847477372260301",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:58,647] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:58,649] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:58,650] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:58,651] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:58,652] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"296\", \"contactName\": \"0051TAB PER\", \"contactPhone\": \" 0051-1-39999997\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382548175\", \"saveTime\": \"1679382548175\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:58,861] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847477374520285",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:58,865] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:58,867] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:58,868] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:58,868] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:58,869] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"297\", \"contactName\": \"PER Test\", \"contactPhone\": \"519 0001 0840\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679390965913\", \"saveTime\": \"1679390965913\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:59,094] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16847477376650287",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:59,100] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:59,101] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:59,103] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:59,104] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:59,104] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"298\", \"contactName\": \"PER Test2\", \"contactPhone\": \"519 8004 7014\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679390992637\", \"saveTime\": \"1679390992637\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:59,320] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16847477379010291",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:59,327] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:59,328] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:59,337] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:59,338] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:59,338] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"299\", \"contactName\": \"01 Qx\", \"contactPhone\": \"0512 5808 547\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563876086\", \"saveTime\": \"1679563876086\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:59,542] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847477381310295",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:59,559] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:59,563] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:59,566] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:59,567] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:59,567] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"300\", \"contactName\": \"02 Qx\", \"contactPhone\": \"0+51963258087\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563904416\", \"saveTime\": \"1679563904416\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:28:59,784] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16847477383650293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:28:59,790] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:28:59,791] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:28:59,796] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:28:59,797] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:28:59,797] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"301\", \"contactName\": \"03 Qx\", \"contactPhone\": \"0051365280741\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563921423\", \"saveTime\": \"1679563921423\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:00,014] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847477385930291",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:00,018] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:00,020] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:00,032] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:00,033] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:00,034] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"302\", \"contactName\": \"04 Qx\", \"contactPhone\": \"00 051908085408\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563954005\", \"saveTime\": \"1679563954005\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:00,247] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847477388280285",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:00,264] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:00,268] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:00,271] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:00,273] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:00,274] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"303\", \"contactName\": \"05 Qx\", \"contactPhone\": \"00 051080007410\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563984011\", \"saveTime\": \"1679563984011\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:00,488] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847477390680299",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:00,505] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:00,508] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:00,511] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:00,512] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:00,513] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"304\", \"contactName\": \"06 Qx\", \"contactPhone\": \"510085214707\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564009914\", \"saveTime\": \"1679564009914\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:00,719] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847477393080293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:00,726] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:00,729] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:00,741] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:00,742] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:00,743] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"305\", \"contactName\": \"07 Qx\", \"contactPhone\": \"5100369805214\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564037309\", \"saveTime\": \"1679564037309\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:00,962] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847477395420303",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:00,972] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:00,976] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:00,979] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:00,980] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:00,980] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"306\", \"contactName\": \"08 Qx\", \"contactPhone\": \"51000369807052\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564061140\", \"saveTime\": \"1679564061140\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:01,206] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847477397830287",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:01,223] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:01,227] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:01,230] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:01,231] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:01,232] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"307\", \"contactName\": \"09 Qx\", \"contactPhone\": \"0900 074 1250\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564089158\", \"saveTime\": \"1679564089158\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:01,442] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16847477400270289",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:01,448] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:01,449] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:01,459] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:01,460] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:01,460] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"308\", \"contactName\": \"10 Qx\", \"contactPhone\": \"00 91 478 523 69\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564106533\", \"saveTime\": \"1679564106533\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:01,670] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16847477402580293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:01,684] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:01,688] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:01,692] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:01,693] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:01,694] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"309\", \"contactName\": \"11 Qx\", \"contactPhone\": \"00 0951080874008\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564124815\", \"saveTime\": \"1679564124815\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:01,906] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847477404930297",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:01,911] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:01,913] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:01,914] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:01,914] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:01,915] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"310\", \"contactName\": \"12 Qx\", \"contactPhone\": \"00 09080708412\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564152979\", \"saveTime\": \"1679564152979\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:02,124] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16847477407120295",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:02,128] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:02,129] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:02,131] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:02,132] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:02,132] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"311\", \"contactName\": \"Bug1 Qx\", \"contactPhone\": \"+0051009+1+2+3+4+5+6+7+8\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564303598\", \"saveTime\": \"1679564303598\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:02,353] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847477409270293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:02,358] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:02,360] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:02,367] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:02,368] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:02,368] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"312\", \"contactName\": \"bug01 Qx\", \"contactPhone\": \"+0921-555-5421\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704621078\", \"saveTime\": \"1683704621078\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:02,573] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847477411610287",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:02,591] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:02,596] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:02,603] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:02,604] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:02,605] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"313\", \"contactName\": \"bug02 Qx\", \"contactPhone\": \"0941-555-8649\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704641114\", \"saveTime\": \"1683704641114\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:02,812] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847477414010301",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:02,819] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:02,822] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:02,825] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:02,826] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:02,827] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"314\", \"contactName\": \"bug03 Qx\", \"contactPhone\": \"+051000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564573487\", \"saveTime\": \"1679564573487\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:03,033] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847477416220295",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:03,038] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:03,040] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:03,042] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:03,043] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:03,044] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"315\", \"contactName\": \"bug03 Qx\", \"contactPhone\": \"+51000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564599636\", \"saveTime\": \"1679564599636\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:03,250] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847477418390305",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:03,256] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:03,258] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:03,260] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:03,261] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:03,261] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"316\", \"contactName\": \"bug04 Qx\", \"contactPhone\": \"+000510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564626437\", \"saveTime\": \"1679564626437\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:03,482] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847477420570289",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:03,486] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:03,488] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:03,493] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:03,494] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:03,495] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"317\", \"contactName\": \"bug05 Qx\", \"contactPhone\": \"+0005100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564650421\", \"saveTime\": \"1679564650421\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:03,698] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16847477422880291",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:03,704] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:03,706] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:03,709] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:03,710] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:03,710] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"318\", \"contactName\": \"bug06 Qx\", \"contactPhone\": \"+00510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564673158\", \"saveTime\": \"1679564673158\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:03,919] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16847477425050295",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:03,936] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:03,937] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:03,946] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:03,947] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:03,947] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"319\", \"contactName\": \"bug07 Qx\", \"contactPhone\": \"+00510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564696500\", \"saveTime\": \"1679564696500\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:04,157] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16847477427410299",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:04,162] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:04,163] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:04,167] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:04,168] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:04,168] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"320\", \"contactName\": \"bug08 Qx\", \"contactPhone\": \"+0510 912 34 5 67 8\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564715782\", \"saveTime\": \"1679564715782\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:04,374] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16847477429620297",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:04,378] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:04,380] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:04,385] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:04,386] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:04,386] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"321\", \"contactName\": \"bug09 Qx\", \"contactPhone\": \"+05100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564732311\", \"saveTime\": \"1679564732311\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:04,600] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847477431800295",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:04,604] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:04,606] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:04,617] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:04,618] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:04,618] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"322\", \"contactName\": \"bug10 Qx\", \"contactPhone\": \"+051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564751572\", \"saveTime\": \"1679564751572\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:04,830] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847477434170289",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:04,835] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:04,836] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:04,850] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:04,851] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:04,851] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"323\", \"contactName\": \"bug11 Qx\", \"contactPhone\": \"+0051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564769423\", \"saveTime\": \"1679564769423\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:05,055] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847477436480303",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:05,060] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:05,061] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:05,071] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:05,072] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:05,072] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"324\", \"contactName\": \"bug12 Qx\", \"contactPhone\": \"+00051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564783476\", \"saveTime\": \"1679564783476\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:05,295] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16847477438660297",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:05,299] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:05,301] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:05,306] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:05,307] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:05,307] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"325\", \"contactName\": \"bug12 Qx\", \"contactPhone\": \"+510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564798648\", \"saveTime\": \"1679564798648\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:05,528] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847477441000307",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:05,546] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:05,551] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:05,557] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:05,558] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:05,559] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"326\", \"contactName\": \"bug13 Qx\", \"contactPhone\": \"+5100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564816735\", \"saveTime\": \"1679564816735\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:05,771] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847477443580291",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:05,777] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:05,779] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:05,791] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:05,792] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:05,792] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"327\", \"contactName\": \"bug14 Qx\", \"contactPhone\": \"+51000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564832052\", \"saveTime\": \"1679564832052\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:06,005] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16847477445860293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:06,021] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:29:06,025] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:29:06,027] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:29:06,028] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:29:06,029] - logger_.py] - DEBUG: 接口请求的参数: "{\"addressBookId\": \"328\", \"contactName\": \"GFD PER kONG\", \"contactPhone\": \"519 5287 4150\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1680604137174\", \"saveTime\": \"1680604137174\", \"sourceType\": \"address_book\"}"
+[2023-05-22 17:29:06,232] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16847477448270297",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-22 17:29:06,236] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:30:34,146] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:30:34,146] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:30:34,147] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:30:34,200] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16847478329400301', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:30:34,200] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:30:34,201] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:30:34,201] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:30:34,518] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'fb284a39099a98aab40a4c7e2dd38e99'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847478329930299', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:08,352] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:08,353] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:31:08,353] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:31:08,402] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16847478671490297', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:08,403] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:31:08,404] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:31:08,404] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:31:08,735] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ca251cc371948a4d891c6c0d6d04435f'}, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16847478671960291', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:14,930] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:14,930] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:31:14,931] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:31:14,981] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16847478737240305', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:14,982] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:31:14,982] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:31:14,983] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:31:15,330] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'a886e4a8360e8c8eefe60c8a42df0807'}, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16847478737780299', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:15,337] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:31:15,338] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:15,338] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 17:31:15,339] - logger_.py] - DEBUG: 接口请求的参数: "0"
+[2023-05-22 17:31:15,424] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847478741340309",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 17:31:15,426] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:31:15,436] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:31:15,437] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:15,437] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 17:31:15,438] - logger_.py] - DEBUG: 接口请求的参数: "1"
+[2023-05-22 17:31:15,508] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847478742300293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 17:31:15,510] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:31:29,071] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:29,071] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:31:29,072] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:31:29,114] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16847478878640295', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:29,115] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:31:29,115] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:31:29,116] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:31:29,438] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '00a4cee78d2f8951b66d9cd6a3a50861'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847478879070299', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:45,571] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:45,572] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:31:45,572] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:31:45,614] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16847479043640303', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:45,614] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:31:45,615] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:31:45,615] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:31:45,937] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '2781dc9dab90dad5e1dead180f7d03ba'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847479044050301', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:31:45,953] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:31:45,955] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:45,956] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/0
+[2023-05-22 17:31:45,957] - logger_.py] - DEBUG: 接口请求的参数: "0"
+[2023-05-22 17:31:46,028] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "addressCode": "001",
+      "addressName": "AGUASCALIENTES"
+    },
+    {
+      "addressCode": "002",
+      "addressName": "BAJA CALIFORNIA"
+    },
+    {
+      "addressCode": "003",
+      "addressName": "BAJA CALIFORNIA SUR"
+    },
+    {
+      "addressCode": "004",
+      "addressName": "CAMPECHE"
+    },
+    {
+      "addressCode": "005",
+      "addressName": "CHIAPAS"
+    },
+    {
+      "addressCode": "006",
+      "addressName": "CHIHUAHUA"
+    },
+    {
+      "addressCode": "009",
+      "addressName": "CIUDAD DE MEXICO"
+    },
+    {
+      "addressCode": "007",
+      "addressName": "COAHUILA"
+    },
+    {
+      "addressCode": "008",
+      "addressName": "COLIMA"
+    },
+    {
+      "addressCode": "010",
+      "addressName": "DURANGO"
+    },
+    {
+      "addressCode": "011",
+      "addressName": "ESTADO DE MEXICO"
+    },
+    {
+      "addressCode": "012",
+      "addressName": "GUANAJUATO"
+    },
+    {
+      "addressCode": "013",
+      "addressName": "GUERRERO"
+    },
+    {
+      "addressCode": "014",
+      "addressName": "HIDALGO"
+    },
+    {
+      "addressCode": "015",
+      "addressName": "JALISCO"
+    },
+    {
+      "addressCode": "016",
+      "addressName": "MICHOACAN"
+    },
+    {
+      "addressCode": "017",
+      "addressName": "MORELOS"
+    },
+    {
+      "addressCode": "018",
+      "addressName": "NAYARIT"
+    },
+    {
+      "addressCode": "019",
+      "addressName": "NUEVO LEON"
+    },
+    {
+      "addressCode": "020",
+      "addressName": "OAXACA"
+    },
+    {
+      "addressCode": "021",
+      "addressName": "PUEBLA"
+    },
+    {
+      "addressCode": "022",
+      "addressName": "QUERATARO"
+    },
+    {
+      "addressCode": "023",
+      "addressName": "QUINTANA ROO"
+    },
+    {
+      "addressCode": "024",
+      "addressName": "SAN LUIS POTOSI"
+    },
+    {
+      "addressCode": "025",
+      "addressName": "SINALOA"
+    },
+    {
+      "addressCode": "026",
+      "addressName": "SONORA"
+    },
+    {
+      "addressCode": "027",
+      "addressName": "TABASCO"
+    },
+    {
+      "addressCode": "028",
+      "addressName": "TAMAULIPAS"
+    },
+    {
+      "addressCode": "029",
+      "addressName": "TLAXCALA"
+    },
+    {
+      "addressCode": "030",
+      "addressName": "VERACRUZ"
+    },
+    {
+      "addressCode": "031",
+      "addressName": "YUCATAN"
+    },
+    {
+      "addressCode": "032",
+      "addressName": "ZACATECAS"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847479047490299",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 17:31:46,030] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:31:46,046] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:31:46,048] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:31:46,049] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/param/getAddressList/1
+[2023-05-22 17:31:46,049] - logger_.py] - DEBUG: 接口请求的参数: "1"
+[2023-05-22 17:31:46,128] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847479048500293",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 17:31:46,129] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:32:16,466] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:32:16,467] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:32:16,467] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:32:16,524] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16847479352650307', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:32:16,525] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:32:16,526] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:32:16,527] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:32:16,839] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8fd1f0d5044302d5d188868de0b1b338'}, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16847479353240301', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:36:21,110] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:36:21,111] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:36:21,111] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:36:21,185] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16847481799080311', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:36:21,185] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:36:21,186] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:36:21,186] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:36:21,508] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '041589489008671d8a0cda74954f4aa8'}, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16847481799760295', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:37:42,081] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:37:42,081] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:37:42,082] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:37:42,254] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16847482609220297', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:37:42,256] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:37:42,259] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:37:42,261] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:37:43,073] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'd8745b6db582dc2b4f9ca43773b9d1c5'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847482611000301', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:37:43,080] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:37:43,081] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:37:43,082] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:37:43,083] - logger_.py] - DEBUG: 接口请求的参数: [
+  {
+    "addressBookId": "226",
+    "contactName": "Mex10",
+    "contactPhone": "12 369 325 87",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1667961289394",
+    "saveTime": "1667961289394",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "227",
+    "contactName": "Mex11",
+    "contactPhone": "963 5804501",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1667961308818",
+    "saveTime": "1667961308818",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "293",
+    "contactName": "BA PER",
+    "contactPhone": "0945-555-5555",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1683704588376",
+    "saveTime": "1683704588376",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "294",
+    "contactName": "Look PER",
+    "contactPhone": "0051-1-31000004",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679382422378",
+    "saveTime": "1679382422378",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "295",
+    "contactName": "+51TAB PER",
+    "contactPhone": "+51139999997",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679382735798",
+    "saveTime": "1679382735798",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "296",
+    "contactName": "0051TAB PER",
+    "contactPhone": " 0051-1-39999997",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679382548175",
+    "saveTime": "1679382548175",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "297",
+    "contactName": "PER Test",
+    "contactPhone": "519 0001 0840",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679390965913",
+    "saveTime": "1679390965913",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "298",
+    "contactName": "PER Test2",
+    "contactPhone": "519 8004 7014",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679390992637",
+    "saveTime": "1679390992637",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "299",
+    "contactName": "01 Qx",
+    "contactPhone": "0512 5808 547",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679563876086",
+    "saveTime": "1679563876086",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "300",
+    "contactName": "02 Qx",
+    "contactPhone": "0+51963258087",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679563904416",
+    "saveTime": "1679563904416",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "301",
+    "contactName": "03 Qx",
+    "contactPhone": "0051365280741",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679563921423",
+    "saveTime": "1679563921423",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "302",
+    "contactName": "04 Qx",
+    "contactPhone": "00 051908085408",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679563954005",
+    "saveTime": "1679563954005",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "303",
+    "contactName": "05 Qx",
+    "contactPhone": "00 051080007410",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679563984011",
+    "saveTime": "1679563984011",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "304",
+    "contactName": "06 Qx",
+    "contactPhone": "510085214707",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564009914",
+    "saveTime": "1679564009914",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "305",
+    "contactName": "07 Qx",
+    "contactPhone": "5100369805214",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564037309",
+    "saveTime": "1679564037309",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "306",
+    "contactName": "08 Qx",
+    "contactPhone": "51000369807052",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564061140",
+    "saveTime": "1679564061140",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "307",
+    "contactName": "09 Qx",
+    "contactPhone": "0900 074 1250",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564089158",
+    "saveTime": "1679564089158",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "308",
+    "contactName": "10 Qx",
+    "contactPhone": "00 91 478 523 69",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564106533",
+    "saveTime": "1679564106533",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "309",
+    "contactName": "11 Qx",
+    "contactPhone": "00 0951080874008",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564124815",
+    "saveTime": "1679564124815",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "310",
+    "contactName": "12 Qx",
+    "contactPhone": "00 09080708412",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564152979",
+    "saveTime": "1679564152979",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "311",
+    "contactName": "Bug1 Qx",
+    "contactPhone": "+0051009+1+2+3+4+5+6+7+8",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564303598",
+    "saveTime": "1679564303598",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "312",
+    "contactName": "bug01 Qx",
+    "contactPhone": "+0921-555-5421",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1683704621078",
+    "saveTime": "1683704621078",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "313",
+    "contactName": "bug02 Qx",
+    "contactPhone": "0941-555-8649",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1683704641114",
+    "saveTime": "1683704641114",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "314",
+    "contactName": "bug03 Qx",
+    "contactPhone": "+051000912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564573487",
+    "saveTime": "1679564573487",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "315",
+    "contactName": "bug03 Qx",
+    "contactPhone": "+51000912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564599636",
+    "saveTime": "1679564599636",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "316",
+    "contactName": "bug04 Qx",
+    "contactPhone": "+000510912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564626437",
+    "saveTime": "1679564626437",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "317",
+    "contactName": "bug05 Qx",
+    "contactPhone": "+0005100912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564650421",
+    "saveTime": "1679564650421",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "318",
+    "contactName": "bug06 Qx",
+    "contactPhone": "+00510912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564673158",
+    "saveTime": "1679564673158",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "319",
+    "contactName": "bug07 Qx",
+    "contactPhone": "+00510912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564696500",
+    "saveTime": "1679564696500",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "320",
+    "contactName": "bug08 Qx",
+    "contactPhone": "+0510 912 34 5 67 8",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564715782",
+    "saveTime": "1679564715782",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "321",
+    "contactName": "bug09 Qx",
+    "contactPhone": "+05100912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564732311",
+    "saveTime": "1679564732311",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "322",
+    "contactName": "bug10 Qx",
+    "contactPhone": "+051912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564751572",
+    "saveTime": "1679564751572",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "323",
+    "contactName": "bug11 Qx",
+    "contactPhone": "+0051912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564769423",
+    "saveTime": "1679564769423",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "324",
+    "contactName": "bug12 Qx",
+    "contactPhone": "+00051912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564783476",
+    "saveTime": "1679564783476",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "325",
+    "contactName": "bug12 Qx",
+    "contactPhone": "+510912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564798648",
+    "saveTime": "1679564798648",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "326",
+    "contactName": "bug13 Qx",
+    "contactPhone": "+5100912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564816735",
+    "saveTime": "1679564816735",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "327",
+    "contactName": "bug14 Qx",
+    "contactPhone": "+51000912345678",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1679564832052",
+    "saveTime": "1679564832052",
+    "sourceType": "address_book"
+  },
+  {
+    "addressBookId": "328",
+    "contactName": "GFD PER kONG",
+    "contactPhone": "519 5287 4150",
+    "contactRealName": "",
+    "contactRelation": "",
+    "lastTime": "1680604137174",
+    "saveTime": "1680604137174",
+    "sourceType": "address_book"
+  }
+]
+[2023-05-22 17:37:43,253] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 17:38:01,181] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 17:38:01,182] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 17:38:01,182] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 17:38:01,281] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16847482799680305', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:38:01,283] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:38:01,285] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 17:38:01,286] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 17:38:01,704] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '16ca87f67d30b6ee6903ab9b62e7175b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847482800790303', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 17:38:01,729] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 17:38:01,732] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 17:38:01,733] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/userInfo/saveAddressBook
+[2023-05-22 17:38:01,734] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"226\", \"contactName\": \"Mex10\", \"contactPhone\": \"12 369 325 87\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1667961289394\", \"saveTime\": \"1667961289394\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"227\", \"contactName\": \"Mex11\", \"contactPhone\": \"963 5804501\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1667961308818\", \"saveTime\": \"1667961308818\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"293\", \"contactName\": \"BA PER\", \"contactPhone\": \"0945-555-5555\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704588376\", \"saveTime\": \"1683704588376\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"294\", \"contactName\": \"Look PER\", \"contactPhone\": \"0051-1-31000004\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382422378\", \"saveTime\": \"1679382422378\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"295\", \"contactName\": \"+51TAB PER\", \"contactPhone\": \"+51139999997\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382735798\", \"saveTime\": \"1679382735798\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"296\", \"contactName\": \"0051TAB PER\", \"contactPhone\": \" 0051-1-39999997\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679382548175\", \"saveTime\": \"1679382548175\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"297\", \"contactName\": \"PER Test\", \"contactPhone\": \"519 0001 0840\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679390965913\", \"saveTime\": \"1679390965913\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"298\", \"contactName\": \"PER Test2\", \"contactPhone\": \"519 8004 7014\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679390992637\", \"saveTime\": \"1679390992637\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"299\", \"contactName\": \"01 Qx\", \"contactPhone\": \"0512 5808 547\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563876086\", \"saveTime\": \"1679563876086\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"300\", \"contactName\": \"02 Qx\", \"contactPhone\": \"0+51963258087\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563904416\", \"saveTime\": \"1679563904416\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"301\", \"contactName\": \"03 Qx\", \"contactPhone\": \"0051365280741\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563921423\", \"saveTime\": \"1679563921423\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"302\", \"contactName\": \"04 Qx\", \"contactPhone\": \"00 051908085408\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563954005\", \"saveTime\": \"1679563954005\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"303\", \"contactName\": \"05 Qx\", \"contactPhone\": \"00 051080007410\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679563984011\", \"saveTime\": \"1679563984011\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"304\", \"contactName\": \"06 Qx\", \"contactPhone\": \"510085214707\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564009914\", \"saveTime\": \"1679564009914\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"305\", \"contactName\": \"07 Qx\", \"contactPhone\": \"5100369805214\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564037309\", \"saveTime\": \"1679564037309\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"306\", \"contactName\": \"08 Qx\", \"contactPhone\": \"51000369807052\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564061140\", \"saveTime\": \"1679564061140\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"307\", \"contactName\": \"09 Qx\", \"contactPhone\": \"0900 074 1250\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564089158\", \"saveTime\": \"1679564089158\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"308\", \"contactName\": \"10 Qx\", \"contactPhone\": \"00 91 478 523 69\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564106533\", \"saveTime\": \"1679564106533\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"309\", \"contactName\": \"11 Qx\", \"contactPhone\": \"00 0951080874008\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564124815\", \"saveTime\": \"1679564124815\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"310\", \"contactName\": \"12 Qx\", \"contactPhone\": \"00 09080708412\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564152979\", \"saveTime\": \"1679564152979\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"311\", \"contactName\": \"Bug1 Qx\", \"contactPhone\": \"+0051009+1+2+3+4+5+6+7+8\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564303598\", \"saveTime\": \"1679564303598\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"312\", \"contactName\": \"bug01 Qx\", \"contactPhone\": \"+0921-555-5421\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704621078\", \"saveTime\": \"1683704621078\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"313\", \"contactName\": \"bug02 Qx\", \"contactPhone\": \"0941-555-8649\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1683704641114\", \"saveTime\": \"1683704641114\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"314\", \"contactName\": \"bug03 Qx\", \"contactPhone\": \"+051000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564573487\", \"saveTime\": \"1679564573487\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"315\", \"contactName\": \"bug03 Qx\", \"contactPhone\": \"+51000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564599636\", \"saveTime\": \"1679564599636\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"316\", \"contactName\": \"bug04 Qx\", \"contactPhone\": \"+000510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564626437\", \"saveTime\": \"1679564626437\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"317\", \"contactName\": \"bug05 Qx\", \"contactPhone\": \"+0005100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564650421\", \"saveTime\": \"1679564650421\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"318\", \"contactName\": \"bug06 Qx\", \"contactPhone\": \"+00510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564673158\", \"saveTime\": \"1679564673158\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"319\", \"contactName\": \"bug07 Qx\", \"contactPhone\": \"+00510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564696500\", \"saveTime\": \"1679564696500\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"320\", \"contactName\": \"bug08 Qx\", \"contactPhone\": \"+0510 912 34 5 67 8\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564715782\", \"saveTime\": \"1679564715782\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"321\", \"contactName\": \"bug09 Qx\", \"contactPhone\": \"+05100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564732311\", \"saveTime\": \"1679564732311\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"322\", \"contactName\": \"bug10 Qx\", \"contactPhone\": \"+051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564751572\", \"saveTime\": \"1679564751572\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"323\", \"contactName\": \"bug11 Qx\", \"contactPhone\": \"+0051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564769423\", \"saveTime\": \"1679564769423\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"324\", \"contactName\": \"bug12 Qx\", \"contactPhone\": \"+00051912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564783476\", \"saveTime\": \"1679564783476\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"325\", \"contactName\": \"bug12 Qx\", \"contactPhone\": \"+510912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564798648\", \"saveTime\": \"1679564798648\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"326\", \"contactName\": \"bug13 Qx\", \"contactPhone\": \"+5100912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564816735\", \"saveTime\": \"1679564816735\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"327\", \"contactName\": \"bug14 Qx\", \"contactPhone\": \"+51000912345678\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1679564832052\", \"saveTime\": \"1679564832052\", \"sourceType\": \"address_book\"}, {\"addressBookId\": \"328\", \"contactName\": \"GFD PER kONG\", \"contactPhone\": \"519 5287 4150\", \"contactRealName\": \"\", \"contactRelation\": \"\", \"lastTime\": \"1680604137174\", \"saveTime\": \"1680604137174\", \"sourceType\": \"address_book\"}]"
+[2023-05-22 17:38:02,486] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16847482805200301",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 17:38:02,499] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 18:05:20,703] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 18:05:20,703] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 18:05:20,704] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 18:05:20,761] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16847499194650307', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 18:05:20,762] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:05:20,762] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 18:05:20,763] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 18:05:21,085] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '47b1457d45d116af8059a5dec7501891'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16847499195210307', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 18:05:21,092] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 18:05:21,093] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 18:05:21,093] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/is/firsttime/loans/in/app
+[2023-05-22 18:05:21,094] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-22 18:05:21,239] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": true,
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847499198560301",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 18:05:21,241] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 18:12:36,329] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-22 18:12:36,330] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-22 18:12:36,330] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-22 18:12:36,420] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16847503550840315', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 18:12:36,421] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:12:36,421] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-22 18:12:36,422] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-22 18:12:36,738] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '3779283485d8dd900540a6730db23fb0'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16847503551740317', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-22 18:12:36,762] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 18:12:36,765] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:12:36,766] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-22 18:12:36,767] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-22 18:12:37,424] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16847503555200323",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 18:12:37,426] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 18:12:37,427] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 18:12:37,428] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:12:37,429] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-22 18:12:37,429] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-22 18:12:38,023] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16847503561890309",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 18:12:38,024] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 18:12:38,025] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 18:12:38,027] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:12:38,027] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-22 18:12:38,027] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-22 18:12:38,657] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16847503567870327",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 18:12:38,658] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-22 18:12:38,660] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-22 18:12:38,661] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-22 18:12:38,661] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-22 18:12:38,662] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-22 18:12:39,452] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16847503574150311",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-22 18:12:39,455] - logger_.py] - INFO: -----------------------分割线-----------------------
+

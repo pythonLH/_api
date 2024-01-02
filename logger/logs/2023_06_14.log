@@ -1,0 +1,1050 @@
+[2023-06-14 10:29:53,259] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:29:53,260] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:29:53,260] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:29:53,381] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.158.16867097926043389', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:29:53,382] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:29:53,382] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:29:53,383] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:29:53,715] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '56245682d80815d69e0402a822b05432'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.157.16867097927283447', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:29:53,724] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:29:53,725] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:29:53,726] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:29:53,726] - logger_.py] - DEBUG: 接口请求的参数: "\"pageNo\""
+[2023-06-14 10:29:54,038] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.155.16867097930693421",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:29:54,168] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:29:54,170] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:29:54,182] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:29:54,182] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:29:54,183] - logger_.py] - DEBUG: 接口请求的参数: "\"pageSize\""
+[2023-06-14 10:29:54,412] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.151.16867097935223403",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:29:54,420] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:30:40,521] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:30:40,521] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:30:40,522] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:30:40,642] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867098398633363', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:30:40,643] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:30:40,645] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:30:40,646] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:30:40,977] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ece33f1a72641426d8147056e9c15415'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.160.16867098399893387', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:30:40,984] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:30:40,985] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:30:40,986] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:30:40,986] - logger_.py] - DEBUG: 接口请求的参数: "pageNo"
+[2023-06-14 10:30:41,200] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.156.16867098403253367",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:30:41,322] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:30:41,324] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:30:41,332] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:30:41,333] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:30:41,333] - logger_.py] - DEBUG: 接口请求的参数: "pageSize"
+[2023-06-14 10:30:41,571] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.154.16867098406803359",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:30:41,582] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:32:08,071] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:32:08,072] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:32:08,072] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:32:08,150] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.159.16867099274103403', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:32:08,158] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:32:08,159] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:32:08,159] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:32:08,501] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '2f2fb62fcd57a783edf55ca4ba392aad'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.152.16867099274963413', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:32:08,507] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:32:08,509] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:32:08,509] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:32:08,510] - logger_.py] - DEBUG: 接口请求的参数: "{\"_caseTitle\": \"\\u8d26\\u5355\\u67e5\\u8be2_01\", \"_caseParam\": {\"pageNo\": \"1\", \"pageSize\": \"50\"}, \"_expectMsg\": \"\\u6210\\u529f\", \"_expectSuccess\": true}"
+[2023-06-14 10:32:08,829] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.158.16867099278493391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:32:08,833] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:34:43,845] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:34:43,846] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:34:43,846] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:34:43,957] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.151.16867100831853405', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:34:43,958] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:34:43,959] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:34:43,959] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:34:44,284] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '4b6f36d1d82f537735187fefdefc685e'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867100832943365', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:34:44,309] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:34:44,312] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:34:44,313] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:34:44,314] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:34:44,544] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.160.16867100836543389",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:34:44,546] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:37:15,026] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:37:15,026] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:37:15,027] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:37:15,095] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.156.16867102343633369', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:37:15,096] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:37:15,096] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:37:15,097] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:37:15,430] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '7b29a7fafbc1d73cfa8891055f26b5e4'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.154.16867102344303361', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:37:15,439] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:37:15,440] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:37:15,440] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:37:15,441] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:37:15,613] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.159.16867102347753405",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:37:15,616] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:39:18,243] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:39:18,243] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:39:18,244] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:39:18,313] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.152.16867103575783415', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:39:18,314] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:39:18,314] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:39:18,315] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:39:18,645] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '6a041d8de843abd045af1c96bc5274c6'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.158.16867103576473393', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:39:18,653] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:39:18,654] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:39:18,655] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:39:18,655] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:39:18,817] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.155.16867103579863425",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:39:18,818] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:39:18,819] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:39:18,820] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:39:18,821] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:39:18,821] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:39:18,984] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.157.16867103581543451",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:39:18,987] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:40:04,960] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:40:04,961] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:40:04,961] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:40:05,015] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.151.16867104043013407', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:40:05,016] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:40:05,016] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:40:05,017] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:40:05,337] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'a76b32594a1c0ba16505461268ce011c'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867104043503367', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:40:05,345] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:40:05,347] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:40:05,347] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:40:05,348] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:40:05,509] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.160.16867104046813391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:40:05,511] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:40:05,513] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:40:05,514] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:40:05,514] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:40:05,515] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:40:05,755] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.156.16867104048503371",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:40:05,881] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:44:09,518] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:44:09,519] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:44:09,519] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:44:09,577] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.154.16867106488473363', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:44:09,578] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:44:09,578] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:44:09,579] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:44:10,358] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '24995bc752dacb2562ee18776def19ea'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.159.16867106489073407', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:44:10,365] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:44:10,366] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:44:10,366] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:44:10,367] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:44:10,538] - logger_.py] - DEBUG: 接口响应结果:{"code": 0, "msg": "\u6210\u529f", "data": [], "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.152.16867106497013417", "paginNation": {"total": 0, "pageNo": 1, "pageSize": 50, "pages": 0}, "skyWalkingDynamicField": null, "success": true}
+[2023-06-14 10:44:10,540] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:44:10,542] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:44:10,543] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:44:10,543] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:44:10,544] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:44:10,755] - logger_.py] - DEBUG: 接口响应结果:{"code": -4, "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef", "data": null, "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.158.16867106498713395", "paginNation": {"total": 0, "pageNo": 0, "pageSize": 0, "pages": 0}, "skyWalkingDynamicField": null, "success": false}
+[2023-06-14 10:44:10,897] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:45:41,071] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:45:41,071] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:45:41,072] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:45:41,128] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.155.16867107404013427', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:45:41,129] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:45:41,129] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:45:41,129] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:45:41,490] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ca0b37707d9de3544fde5dd2d4250417'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.157.16867107404553453', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:45:41,498] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:45:41,499] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:45:41,499] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:45:41,500] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:45:41,690] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.151.16867107408323409",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:45:41,692] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:45:41,693] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:45:41,694] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:45:41,695] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:45:41,695] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:45:41,928] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.153.16867107410243369",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:45:42,053] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:46:43,147] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:46:43,147] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:46:43,148] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:46:43,208] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.160.16867108024753393', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:46:43,216] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:46:43,216] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:46:43,217] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:46:43,533] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ab4afe21ef608d419330cef2aae1c3f9'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.156.16867108025433373', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:46:43,541] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:46:43,542] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:46:43,542] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:46:43,543] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:46:43,706] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.154.16867108028723365",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:46:43,707] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:46:43,709] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:46:43,710] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:46:43,710] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:46:43,711] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:46:43,931] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.159.16867108030363409",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:46:44,075] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:49:15,047] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:49:15,047] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:49:15,048] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:49:15,111] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.152.16867109543763419', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:49:15,112] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:15,112] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:49:15,112] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:49:15,454] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '1b96bead6ab9efc2b904f72ca29128c0'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.158.16867109544393397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:49:15,463] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:49:15,464] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:15,465] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:49:15,465] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:49:15,757] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:49:15,759] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:49:15,760] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:15,760] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:49:15,761] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:49:16,010] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:49:31,647] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:49:31,648] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:49:31,648] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:49:31,689] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.151.16867109709733411', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:49:31,689] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:31,690] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:49:31,690] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:49:32,033] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '05570a2b76b53641a115d0884c057d0e'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867109710133371', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:49:32,042] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:49:32,043] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:32,044] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:49:32,044] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:49:32,201] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.160.16867109713723395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:49:32,204] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:49:32,205] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:49:32,206] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:49:32,207] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:49:32,207] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:49:32,420] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.156.16867109715303375",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:49:32,537] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:50:47,095] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:50:47,095] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:50:47,096] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:50:47,147] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.154.16867110464183367', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:50:47,148] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:50:47,148] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:50:47,148] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:50:47,479] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '18b7e75b1f7698bf3802b2cf268273db'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.159.16867110464713411', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:50:47,487] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:50:47,488] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:50:47,488] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:50:47,489] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:50:47,671] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.152.16867110468163421",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:50:47,674] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:50:47,677] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:50:47,679] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:50:47,680] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:50:47,681] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:50:47,905] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.158.16867110470083399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:50:48,026] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:51:15,040] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:51:15,041] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:51:15,041] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:51:15,090] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.155.16867110743643431', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:51:15,091] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:51:15,092] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:51:15,092] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:51:15,416] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '95702fae39ec0d4bf0a473fdb56ed6eb'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.157.16867110744133457', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:51:15,425] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:51:15,427] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:51:15,427] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:51:15,428] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:51:15,596] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.151.16867110747533413",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:51:15,598] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:51:15,600] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:51:15,601] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:51:15,601] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:51:15,602] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:51:15,824] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.153.16867110749243373",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:51:15,826] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:56:22,334] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:56:22,335] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:56:22,335] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:56:22,414] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.160.16867113816543397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:56:22,415] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:56:22,416] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:56:22,416] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:56:22,748] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '71c68b7fb87f8031627e528fc008b5a4'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.156.16867113817353377', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:56:22,757] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:56:22,758] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:56:22,758] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:56:22,759] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:56:22,928] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.154.16867113820773369",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:56:22,930] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:56:22,932] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:56:22,934] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:56:22,935] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:56:22,936] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:56:23,257] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.159.16867113822533413",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:56:23,260] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:57:56,560] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 10:57:56,560] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 10:57:56,561] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 10:57:56,623] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.152.16867114758783423', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:57:56,632] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:57:56,633] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 10:57:56,634] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 10:57:56,966] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '975de3c6c2751bf9da4e6fa3a8213a39'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.158.16867114759593401', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 10:57:56,974] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:57:56,975] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:57:56,975] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:57:56,976] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 10:57:57,160] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.155.16867114762943433",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 10:57:57,304] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 10:57:57,305] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 10:57:57,307] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 10:57:57,307] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 10:57:57,308] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 10:57:57,525] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.157.16867114766233459",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 10:57:57,530] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:01:20,994] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:01:20,995] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:01:20,995] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:01:21,062] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.151.16867116803123415', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:01:21,063] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:21,064] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:01:21,064] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:01:21,399] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'd974529b287303fa838cab54b765a7a7'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867116803823375', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:01:21,406] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:01:21,407] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:21,408] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:01:21,408] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:01:21,576] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.160.16867116807233399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:01:21,695] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:01:21,696] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:01:21,702] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:21,703] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:01:21,703] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:01:21,940] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.156.16867116810193379",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:01:21,948] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:01:42,807] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:01:42,808] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:01:42,808] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:01:42,857] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.154.16867117021243371', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:01:42,858] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:42,858] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:01:42,859] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:01:43,184] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'f850ddf85cb5a2977470b9e4a1c0d7d6'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.159.16867117021703415', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:01:43,191] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:01:43,192] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:43,192] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:01:43,193] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:01:43,362] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.152.16867117025153425",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:01:43,364] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:01:43,367] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:01:43,370] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:01:43,371] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:01:43,372] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:01:43,595] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.158.16867117026883403",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:01:43,598] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:03:38,392] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:03:38,392] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:03:38,393] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:03:38,461] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.155.16867118177123435', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:03:38,462] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:03:38,463] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:03:38,463] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:03:38,802] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8add4a8e6193ef288294cfb937690d88'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.157.16867118177853461', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:03:38,810] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:03:38,811] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:03:38,811] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:03:38,812] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:03:38,812] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:03:38,988] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.151.16867118181313417",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:03:38,992] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:03:38,996] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:03:38,998] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:03:38,999] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:03:38,999] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:03:39,000] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:03:39,229] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.153.16867118183133377",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:03:39,233] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:05:45,869] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:05:45,869] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:05:45,870] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:05:45,925] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.160.16867119451833401', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:05:45,925] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:05:45,926] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:05:45,926] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:05:46,249] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'b9c774e68d3cc0729e1d0fd537d6b7fd'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.156.16867119452433381', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:05:46,256] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:05:46,257] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:05:46,258] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:05:46,258] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:05:46,440] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.154.16867119455663373",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:05:46,443] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:05:46,448] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:05:46,453] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:05:46,456] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:05:46,458] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:05:46,459] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:05:46,688] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.159.16867119457693417",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:05:46,690] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:05:46,692] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:07:16,171] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:07:16,171] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:07:16,172] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:07:16,248] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.152.16867120354853427', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:07:16,249] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:07:16,250] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:07:16,251] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:07:16,598] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '0c6944d918065a623d41c135b3799420'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.158.16867120355663405', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:07:16,605] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:07:16,606] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:07:16,607] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:07:16,607] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:07:16,608] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:07:16,830] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.155.16867120359163437",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:07:16,836] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:07:16,843] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:07:16,848] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:07:16,849] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:07:16,851] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageRepayLoanLists
+[2023-06-14 11:07:16,852] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:07:17,074] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.157.16867120361623463",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:07:17,076] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:24:22,773] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:24:22,773] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:24:22,774] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:24:22,845] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.153.16867130620723381', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:24:22,854] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:24:22,855] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:24:22,857] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:24:23,212] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '74d93ec4d4b722827ae9a74e8223e40d'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.151.16867130621543421', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:24:23,238] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:24:23,240] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:24:23,241] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:24:23,242] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:24:23,243] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:24:23,424] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.156.16867130625403385",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:24:23,427] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:24:23,428] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:24:23,429] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:24:23,430] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:24:23,430] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:24:23,431] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:24:23,652] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.160.16867130627233405",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:24:23,656] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:28:08,769] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:28:08,769] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:28:08,770] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:28:08,830] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.154.16867132880633377', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:28:08,831] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:08,831] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:28:08,832] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:28:09,158] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '28bb8dd9e5418bae5eb1ca5af22ca132'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.159.16867132881273421', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:28:09,178] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:28:09,181] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:28:09,182] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:09,183] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:28:09,183] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:28:09,330] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.158.16867132884753409",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:28:09,336] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:28:09,343] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:28:09,347] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:28:09,348] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:09,348] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:28:09,349] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:28:09,589] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.152.16867132886453431",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:28:09,591] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:28:30,890] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-06-14 11:28:30,890] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-06-14 11:28:30,891] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-06-14 11:28:30,939] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.155.16867133101833441', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:28:30,940] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:30,940] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-06-14 11:28:30,941] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-06-14 11:28:31,282] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '750b527d5e35cb4af5acc2ec05b6071f'}, 'traceId': '29ef181e7b7c4c1680422d6d2d47cb6d.157.16867133102353467', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-06-14 11:28:31,291] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:28:31,292] - logger_.py] - DEBUG: 测试:账单查询_01
+[2023-06-14 11:28:31,293] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:31,293] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:28:31,293] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"1\", \"pageSize\": \"50\"}"
+[2023-06-14 11:28:31,438] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": 0,
+  "msg": "成功",
+  "data": [],
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.153.16867133105863383",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 1,
+    "pageSize": 50,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-06-14 11:28:31,439] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-06-14 11:28:31,441] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-06-14 11:28:31,442] - logger_.py] - DEBUG: 测试:账单查询_02
+[2023-06-14 11:28:31,442] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-06-14 11:28:31,443] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/market/queryStageAuditLoanLists
+[2023-06-14 11:28:31,443] - logger_.py] - DEBUG: 接口请求的参数: "{\"pageNo\": \"-\", \"pageSize\": \"*\"}"
+[2023-06-14 11:28:31,666] - logger_.py] - DEBUG: 接口响应结果:{
+  "code": -4,
+  "msg": "请求参数错误",
+  "data": null,
+  "traceId": "29ef181e7b7c4c1680422d6d2d47cb6d.151.16867133107333423",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-06-14 11:28:31,672] - logger_.py] - INFO: -----------------------分割线-----------------------
+

@@ -1,0 +1,951 @@
+# 如果觉得好用，请收藏或则分享本站
+saveMarketInfo:
+  - title: 保存贷超用户信息-正常用例
+    case param:
+      appList: []
+      applyLoanAmount: ''
+      attach:
+        - attachName: ''
+          channel: app
+          newName: 2023051206062327185031.jpeg
+          newPathName: /upload/image/20230512/2023051206062327185031.jpeg
+          originalAttachName: front_1683889572847_pic.jpg
+          originalName: ''
+          path: /upload/image/20230512
+          purpose: sfzzm
+        - attachName: ''
+          channel: app
+          newName: 2023051206063227242177.jpeg
+          newPathName: /upload/image/20230512/2023051206063227242177.jpeg
+          originalAttachName: back_1683889581999_pic.jpg
+          originalName: ''
+          path: /upload/image/20230512
+          purpose: sfzfm
+      bank:
+        idCard: D25005500580000000
+      base:
+        birthday: '1982-01-01'
+        childNum: '0'
+        education: '1'
+        email: gfhh@163.com
+        familyName: gvhh
+        givenName: ggb
+        instancyContacts:
+          - addressBookId: '2669'
+            canEdit: false
+            canFocus: false
+            contactName: ahjhv
+            contactPhone: 037123883
+            contactRealName: ahjhv
+            contactRelation: '0'
+            contactRelationLabel: 父母
+            lastTime: '2023-03-28 15:23:40'
+            percent: ''
+            saveTime: '2023-03-28 15:23:40'
+          - addressBookId: '246'
+            canEdit: false
+            canFocus: false
+            contactName: djfj
+            contactPhone: 999 938 869
+            contactRealName: djfj
+            contactRelation: '1'
+            contactRelationLabel: 配偶
+            lastTime: '2023-05-10 14:33:18'
+            percent: ''
+            saveTime: '2023-05-10 14:33:18'
+          - addressBookId: '242'
+            canEdit: false
+            canFocus: false
+            contactName: djjdjd
+            contactPhone: 934 654 666
+            contactRealName: djjdjd
+            contactRelation: '0'
+            contactRelationLabel: 父母
+            lastTime: '2023-04-17 14:22:04'
+            percent: ''
+            saveTime: '2023-04-17 14:22:04'
+        maritalStatus: '1'
+        middleName: ch
+        placeAddress: hhh
+        placeCity: '006006'
+        placeCounty: ''
+        placeProvince: '006'
+        placeTime: ''
+        sex: '1'
+        whatsApp: '2100558855'
+      configPayout: true
+      customerSource: ''
+      firstExpectAmount: ''
+      firstExpectDay: ''
+      livenessId: ''
+      merchantNo: ''
+      ocrData:
+        ocrType: advance
+      orgNo: ''
+      payoutPaymentConfig:
+        bankConfig:
+          accountType:
+            label: ''
+            value: ''
+          bankCard: ''
+          bankType:
+            label: ''
+            value: ''
+          name: ''
+        paymentChildKey:
+          label: Bank
+          value: bank
+        paymentTypeKey:
+          label: Bank transfer
+          value: bank
+      productNo: ''
+      promotionChannels: ''
+      work:
+        income: '3'
+        payDay: ''
+        post: '0'
+        salaryType: '0'
+        secondPayDay: ''
+        sourceIncome: '0'
+        workPost: '1'
+        workTime: '0'
+    expect: 'True'
+
+saveMarketInfo_two:
+  - title: 保存贷超用户信息-异常用例
+    case param:
+      appList: []
+      applyLoanAmount: ''
+      attach:
+        - attachName: ''
+          channel: app
+          newName: 2023051206062327185031.jpeg
+          newPathName: /upload/image/20230512/2023051206062327185031.jpeg
+          originalAttachName: front_1683889572847_pic.jpg
+          originalName: ''
+          path: /upload/image/20230512
+          purpose: sfzzm
+        - attachName: ''
+          channel: app
+          newName: 2023051206063227242177.jpeg
+          newPathName: /upload/image/20230512/2023051206063227242177.jpeg
+          originalAttachName: back_1683889581999_pic.jpg
+          originalName: ''
+          path: /upload/image/20230512
+          purpose: sfzfm
+      bank:
+        idCard: D25005500580000000
+      base:
+        birthday: ''
+        childNum: '0'
+        education: '1'
+        email: gfhh@163.com
+        familyName: gvhh
+        givenName: ggb
+        instancyContacts:
+          - addressBookId: '2669'
+            canEdit: false
+            canFocus: false
+            contactName: ahjhv
+            contactPhone: 037123883
+            contactRealName: ahjhv
+            contactRelation: '0'
+            contactRelationLabel: 父母
+            lastTime: '2023-03-28 15:23:40'
+            percent: ''
+            saveTime: '2023-03-28 15:23:40'
+          - addressBookId: '246'
+            canEdit: false
+            canFocus: false
+            contactName: djfj
+            contactPhone: 999 938 869
+            contactRealName: djfj
+            contactRelation: '1'
+            contactRelationLabel: 配偶
+            lastTime: '2023-05-10 14:33:18'
+            percent: ''
+            saveTime: '2023-05-10 14:33:18'
+          - addressBookId: '242'
+            canEdit: false
+            canFocus: false
+            contactName: djjdjd
+            contactPhone: 934 654 666
+            contactRealName: djjdjd
+            contactRelation: '0'
+            contactRelationLabel: 父母
+            lastTime: '2023-04-17 14:22:04'
+            percent: ''
+            saveTime: '2023-04-17 14:22:04'
+        maritalStatus: '1'
+        middleName: ch
+        placeAddress: hhh
+        placeCity: '006006'
+        placeCounty: ''
+        placeProvince: '006'
+        placeTime: ''
+        sex: '1'
+        whatsApp: '2100558855'
+      configPayout: true
+      customerSource: ''
+      firstExpectAmount: ''
+      firstExpectDay: ''
+      livenessId: ''
+      merchantNo: ''
+      ocrData:
+        ocrType: advance
+      orgNo: ''
+      payoutPaymentConfig:
+        bankConfig:
+          accountType:
+            label: ''
+            value: ''
+          bankCard: ''
+          bankType:
+            label: ''
+            value: ''
+          name: ''
+        paymentChildKey:
+          label: Bank
+          value: bank
+        paymentTypeKey:
+          label: Bank transfer
+          value: bank
+      productNo: ''
+      promotionChannels: ''
+      work:
+        income: '3'
+        payDay: ''
+        post: '0'
+        salaryType: '0'
+        secondPayDay: ''
+        sourceIncome: '0'
+        workPost: '1'
+        workTime: '0'
+    expect: 'True'
+
+advance_card_ocr:
+  - newName: 2023090601120325736334.jpg
+    newPathName: /upload/file/20230906/2023090601120325736334.jpg
+    packageName: com.latin.pe.hinance
+    merchantNo: '01'
+    orgNo: PER
+
+
+saveAddressBook:
+  # 如果觉得好用，请收藏或则分享本站
+  - - addressBookId: '226'
+      contactName: Per10
+      contactPhone: 12 369 325 87
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1667961289394'
+      saveTime: '1667961289394'
+      sourceType: address_book
+    - addressBookId: '227'
+      contactName: Per11
+      contactPhone: 963 5804501
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1667961308818'
+      saveTime: '1667961308818'
+      sourceType: address_book
+    - addressBookId: '293'
+      contactName: BA PER
+      contactPhone: 0945-555-5555
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1683704588376'
+      saveTime: '1683704588376'
+      sourceType: address_book
+    - addressBookId: '294'
+      contactName: Look PER
+      contactPhone: 0051-1-31000004
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679382422378'
+      saveTime: '1679382422378'
+      sourceType: address_book
+    - addressBookId: '295'
+      contactName: +51TAB PER
+      contactPhone: '+51139999997'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679382735798'
+      saveTime: '1679382735798'
+      sourceType: address_book
+    - addressBookId: '296'
+      contactName: 0051TAB PER
+      contactPhone: ' 0051-1-39999997'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679382548175'
+      saveTime: '1679382548175'
+      sourceType: address_book
+    - addressBookId: '297'
+      contactName: PER Test
+      contactPhone: 519 0001 0840
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679390965913'
+      saveTime: '1679390965913'
+      sourceType: address_book
+    - addressBookId: '298'
+      contactName: PER Test2
+      contactPhone: 519 8004 7014
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679390992637'
+      saveTime: '1679390992637'
+      sourceType: address_book
+    - addressBookId: '299'
+      contactName: 01 Qx
+      contactPhone: 0512 5808 547
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679563876086'
+      saveTime: '1679563876086'
+      sourceType: address_book
+    - addressBookId: '300'
+      contactName: 02 Qx
+      contactPhone: 0+51963258087
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679563904416'
+      saveTime: '1679563904416'
+      sourceType: address_book
+    - addressBookId: '301'
+      contactName: 03 Qx
+      contactPhone: 0051365280741
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679563921423'
+      saveTime: '1679563921423'
+      sourceType: address_book
+    - addressBookId: '302'
+      contactName: 04 Qx
+      contactPhone: 00 051908085408
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679563954005'
+      saveTime: '1679563954005'
+      sourceType: address_book
+    - addressBookId: '303'
+      contactName: 05 Qx
+      contactPhone: 00 051080007410
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679563984011'
+      saveTime: '1679563984011'
+      sourceType: address_book
+    - addressBookId: '304'
+      contactName: 06 Qx
+      contactPhone: '510085214707'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564009914'
+      saveTime: '1679564009914'
+      sourceType: address_book
+    - addressBookId: '305'
+      contactName: 07 Qx
+      contactPhone: '5100369805214'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564037309'
+      saveTime: '1679564037309'
+      sourceType: address_book
+    - addressBookId: '306'
+      contactName: 08 Qx
+      contactPhone: '51000369807052'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564061140'
+      saveTime: '1679564061140'
+      sourceType: address_book
+    - addressBookId: '307'
+      contactName: 09 Qx
+      contactPhone: 0900 074 1250
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564089158'
+      saveTime: '1679564089158'
+      sourceType: address_book
+    - addressBookId: '308'
+      contactName: 10 Qx
+      contactPhone: 00 91 478 523 69
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564106533'
+      saveTime: '1679564106533'
+      sourceType: address_book
+    - addressBookId: '309'
+      contactName: 11 Qx
+      contactPhone: 00 0951080874008
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564124815'
+      saveTime: '1679564124815'
+      sourceType: address_book
+    - addressBookId: '310'
+      contactName: 12 Qx
+      contactPhone: 00 09080708412
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564152979'
+      saveTime: '1679564152979'
+      sourceType: address_book
+    - addressBookId: '311'
+      contactName: Bug1 Qx
+      contactPhone: +0051009+1+2+3+4+5+6+7+8
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564303598'
+      saveTime: '1679564303598'
+      sourceType: address_book
+    - addressBookId: '312'
+      contactName: bug01 Qx
+      contactPhone: +0921-555-5421
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1683704621078'
+      saveTime: '1683704621078'
+      sourceType: address_book
+    - addressBookId: '313'
+      contactName: bug02 Qx
+      contactPhone: 0941-555-8649
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1683704641114'
+      saveTime: '1683704641114'
+      sourceType: address_book
+    - addressBookId: '314'
+      contactName: bug03 Qx
+      contactPhone: +051000912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564573487'
+      saveTime: '1679564573487'
+      sourceType: address_book
+    - addressBookId: '315'
+      contactName: bug03 Qx
+      contactPhone: '+51000912345678'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564599636'
+      saveTime: '1679564599636'
+      sourceType: address_book
+    - addressBookId: '316'
+      contactName: bug04 Qx
+      contactPhone: +000510912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564626437'
+      saveTime: '1679564626437'
+      sourceType: address_book
+    - addressBookId: '317'
+      contactName: bug05 Qx
+      contactPhone: +0005100912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564650421'
+      saveTime: '1679564650421'
+      sourceType: address_book
+    - addressBookId: '318'
+      contactName: bug06 Qx
+      contactPhone: +00510912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564673158'
+      saveTime: '1679564673158'
+      sourceType: address_book
+    - addressBookId: '319'
+      contactName: bug07 Qx
+      contactPhone: +00510912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564696500'
+      saveTime: '1679564696500'
+      sourceType: address_book
+    - addressBookId: '320'
+      contactName: bug08 Qx
+      contactPhone: +0510 912 34 5 67 8
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564715782'
+      saveTime: '1679564715782'
+      sourceType: address_book
+    - addressBookId: '321'
+      contactName: bug09 Qx
+      contactPhone: +05100912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564732311'
+      saveTime: '1679564732311'
+      sourceType: address_book
+    - addressBookId: '322'
+      contactName: bug10 Qx
+      contactPhone: +051912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564751572'
+      saveTime: '1679564751572'
+      sourceType: address_book
+    - addressBookId: '323'
+      contactName: bug11 Qx
+      contactPhone: +0051912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564769423'
+      saveTime: '1679564769423'
+      sourceType: address_book
+    - addressBookId: '324'
+      contactName: bug12 Qx
+      contactPhone: +00051912345678
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564783476'
+      saveTime: '1679564783476'
+      sourceType: address_book
+    - addressBookId: '325'
+      contactName: bug12 Qx
+      contactPhone: '+510912345678'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564798648'
+      saveTime: '1679564798648'
+      sourceType: address_book
+    - addressBookId: '326'
+      contactName: bug13 Qx
+      contactPhone: '+5100912345678'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564816735'
+      saveTime: '1679564816735'
+      sourceType: address_book
+    - addressBookId: '327'
+      contactName: bug14 Qx
+      contactPhone: '+51000912345678'
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1679564832052'
+      saveTime: '1679564832052'
+      sourceType: address_book
+    - addressBookId: '328'
+      contactName: GFD PER kONG
+      contactPhone: 519 5287 4150
+      contactRealName: ''
+      contactRelation: ''
+      lastTime: '1680604137174'
+      saveTime: '1680604137174'
+      sourceType: address_book
+
+queryAvailableProduct:
+  - merchantNo: '01'
+    orgNo: PER
+  - merchantNo: '02'
+    orgNo: PER
+  - merchantNo: '03'
+    orgNo: PER
+  - merchantNo: '04'
+    orgNo: PER
+
+
+getProductUserIsAdjustment:
+  - merchantNo: '01'
+    orgNo: PER
+    productNo: PER_01_2_20220617173158
+    userExpectedAmount: '1800.00'
+    userExpectedTerm: '8'
+    productAmount: '1800.00'
+    productTerm: '8'
+    expectedInstallment: '1'
+    showPeriod: '8'
+
+getProductUserStatus:
+  - applicationConditions: ''
+    applicationMaterials: '111'
+    dayRate: '0.17'
+    homeStatus: '0'
+    isEnableRecommend: '0'
+    isNew: '1'
+    merchantNo: '01'
+    nextSectionIntroduction: ''
+    orgNo: PER
+    prductPayAmountMax: '20000'
+    prductPayAmountMin: '2000'
+    productDownUrl: www.baidu.com
+    productFastPayTime: '15'
+    productIntroduce: testhhh
+    productLoanTerm: '91'
+    productName: Préstamos seguros
+    productPictureUrl: /upload/image/20221009/2022100922575962834025.png
+    repaymentDescription: ''
+    weight: '5'
+
+
+LoanLists:
+  - _caseTitle: 账单查询_01
+    _caseParam:
+      pageNo: '1'
+      pageSize: '50'
+    _expectMsg: 成功
+    _expectSuccess: true
+  - _caseTitle: 账单查询_02
+    _caseParam:
+      pageNo: '-'
+      pageSize: '*'
+    _expectMsg: 请求参数错误
+    _expectSuccess: false
+
+
+
+
+# 如果觉得好用，请收藏或则分享本站
+# 如果觉得好用，请收藏或则分享本站
+# 如果觉得好用，请收藏或则分享本站
+# 如果觉得好用，请收藏或则分享本站
+submitOneProduct:
+  - appList:
+      - apbgDM9hH: true
+        apihiZbneb07D: false
+        appName: TALA
+        appVersion: 7.123.0
+        appVersionCode: '32300'
+        applF: 0.48291278
+        apqkKUs: ywlfLtD
+        apqt652EqUO5y: tsf9noA
+        aprsOVES7: 0.21701461
+        apryXD: er8SXHn
+        aptxQr: 0.8288807
+        apvnt6WHoC: true
+        apydnd: 0.5037959004659659
+        firqbCZPgWEOTh: yiZwVa3
+        firstInstallTime: '2022-10-09 12:03:08'
+        fixfxHY8qKF: nbC84Hg
+        lastUpdateTime: '2022-10-09 12:03:24'
+        laudWNWIOBoQ2: vgguo56
+        lzV63Blg: 0.97953033
+        pabdv: 0.6797909212947759
+        packageName: mx.com.tala
+        paokVt: ktGCi2C
+        parwBEWw: 0.8089040204426051
+        pazarCn: 579
+        yoDKvUyg: tnMaxgH
+      - apbgDM9hH: true
+        apihiZbneb07D: false
+        appName: OpenPurse
+        appVersion: 1.0.5
+        appVersionCode: '105'
+        applF: 0.48291278
+        apqkKUs: ywlfLtD
+        apqt652EqUO5y: tsf9noA
+        aprsOVES7: 0.21701461
+        apryXD: er8SXHn
+        aptxQr: 0.8288807
+        apvnt6WHoC: true
+        apydnd: 0.5037959004659659
+        firqbCZPgWEOTh: yiZwVa3
+        firstInstallTime: '2023-04-24 17:31:54'
+        fixfxHY8qKF: nbC84Hg
+        lastUpdateTime: '2023-04-24 17:31:54'
+        laudWNWIOBoQ2: vgguo56
+        lzV63Blg: 0.97953033
+        pabdv: 0.6797909212947759
+        packageName: com.mexico.loan.open.purse
+        paokVt: ktGCi2C
+        parwBEWw: 0.8089040204426051
+        pazarCn: 579
+        yoDKvUyg: tnMaxgH
+    applyLoanAmount: '1800.00'
+    attach:
+      - attachName: ''
+        channel: app
+        newName: 2023051502085427551713.jpeg
+        newPathName: /upload/image/20230515/2023051502085427551713.jpeg
+        originalAttachName: front_1684134528891_pic.jpg
+        originalName: ''
+        path: /upload/image/20230515
+        purpose: sfzzm
+      - attachName: ''
+        channel: app
+        newName: 2023051502090327672101.jpeg
+        newPathName: /upload/image/20230515/2023051502090327672101.jpeg
+        originalAttachName: back_1684134538542_pic.jpg
+        originalName: ''
+        path: /upload/image/20230515
+        purpose: sfzfm
+      - attachName: ''
+        channel: app
+        newName: 2023051502104227785225.jpeg
+        newPathName: /upload/image/20230515/2023051502104227785225.jpeg
+        originalAttachName: hold_1684134637951_pic.jpg
+        originalName: 1684134641279853.jpeg
+        path: /upload/image/20230515
+        purpose: scsfz
+    bank:
+      idCard: 12D234234234234324
+    base:
+      birthday: '1982-01-01'
+      childNum: '0'
+      education: '1'
+      email: sadada@qq.com
+      familyName: sfsf
+      givenName: dsfs
+      instancyContacts:
+        - contactName: PER Test
+          contactPhone: '51900010840'
+          contactRealName: PER Test
+          contactRelation: '0'
+          lastTime: '2023-03-21 17:29:25'
+        - contactName: PER Test2
+          contactPhone: '51980047014'
+          contactRealName: PER Test2
+          contactRelation: '5'
+          lastTime: '2023-03-21 17:29:52'
+      maritalStatus: '1'
+      middleName: sfdsfs
+      placeAddress: dfgdfg
+      placeCity: '006006'
+      placeCounty: ''
+      placeProvince: '006'
+      placeTime: ''
+      sex: '1'
+      whatsApp: '2131321313'
+    configPayout: true
+    customerSource: com.ahorrar.dinero.chancheuklung
+    firstExpectAmount: '1800.00'
+    firstExpectDay: '8'
+    livenessId: ''
+    merchantNo: '01'
+    ocrData:
+      advance:
+        cardType: INE_OR_IFE_FRONT
+        ocrType: advance
+        transactionId: 'hc#9d5bd36510d84c93805d2edc437524f0'
+        values:
+          addressAll: '  '
+          age: ''
+          birthday: ''
+          district: ''
+          electionSectionNumber: ''
+          expiryYear: ''
+          fatherLastName: ''
+          fullName: '  '
+          gender: ''
+          idNumber: ''
+          invoice: ''
+          issueYear: ''
+          motherLastName: ''
+          municipalNumber: ''
+          name: ''
+          placeNumber: ''
+          postalCode: ''
+          registrationYearAndMonth: ''
+          state: ''
+          stateNumber: ''
+          subDistrict: ''
+          voterId: ''
+      ocrType: advance
+    orgNo: MEX
+    payoutPaymentConfig:
+      bankConfig:
+        accountType:
+          label: 银行
+          value: '0'
+        bankCard: '6421001000101000'
+        bankType:
+          label: AFIRME
+          value: '40062'
+        name: dsfs sfdsfs sfsf
+      paymentChildKey:
+        label: Bank
+        value: bank
+      paymentTypeKey:
+        label: Bank transfer
+        value: bank
+    productNo: MEX_01_2_20220617173158
+    promotionChannels: googlePlay
+    sign:
+      adazGu: true
+      adbEnabled: '1'
+      adkvEmjB: 0.21675128
+      adwc7v: 0.2964636655795523
+      androidId: 69383b06d1613423
+      anilVHn: 0.088487566
+      anop5BKT: 0.20492989
+      availableStorage: 37.6660GB
+      avaySw: 0.25227845
+      battery: '98'
+      baxaghw0G: klII7ej
+      baxwYxzAn: 0.7256805
+      codeName: REL
+      cosiGhJG: 692
+      cpagrp: 0.5516101
+      cpedYd: true
+      cpelN: 30
+      cpfcy1: 0.1256485
+      cppgy: 130
+      cpsdT9cb: 0.14683521
+      cpu: arm64-v8a
+      cpuCores: '8'
+      cpuInfo: ' Qualcomm Technologies, Inc BENGAL'
+      cpuSpeed: 1804800KHz
+      cpvn3a: 0.14857787
+      cpxaJc: 0.9210651532407855
+      cunhV0vq: ormbG4o
+      currentWifi: HAI - INNER
+      cuzn5l56LLY: false
+      deaysCTSQgQ: 0.7665027799232882
+      dedcLUzrE8TANZd: 255
+      dedjotex92Bz: 0.7308551099970634
+      defxL: corg4hE
+      degexLJeiOYTQ: false
+      degiyZNPtq: false
+      dejnzsF: 0.8577697086444994
+      dekuHLY15OzdOTe: 0.11102289
+      desffc: 0.18194966558554226
+      deskzNCLbO7go4e: true
+      detailAddress: ''
+      deupk: nxLWO0i
+      deviceLanguage: zh
+      deviceMac: '52:20:F8:7F:54:D0'
+      deviceModel: 'motorola#motoe(7)plus'
+      deviceSerial: ''
+      deviceSoftwareVersion: '14'
+      deviceVersionType: user
+      devoJp: 638
+      deyktk2Fb3: ccknZD1
+      dezfb51Pb8D: acujWd1
+      dibxapr: false
+      diewkf9Dm65NU: false
+      displayMetrics: '720,1515'
+      diwlx: ro8DI5N
+      ffl4hyYm: 960
+      filkRClgnmlY: 973
+      fingerPrint: >-
+        motorola/guam_retail/guam:10/QPZS30.30-Q3-38-69-12/916393:user/release-keys
+      fiwu9V: true
+      gaczyh: 0.403992466638621
+      gaid: 798ea536-d181-4d6b-a1a7-d65ab4e752d6
+      hahl4Pm: xv1JNVp
+      hardware: qcom
+      imei: ''
+      imiaD: true
+      imisWU: 0.6490115036097179
+      imqxy: 0.47961646
+      imsi: ''
+      imuxN: true
+      inDoor: ''
+      inggti: 0.33322632
+      inxyZ: aws6kZt
+      inybi: 0.9666376
+      lag: 'null'
+      lanc8: 28
+      lnaiT: 0.2045439348636643
+      lng: 'null'
+      locationAddress: ''
+      locationCity: ''
+      lodaPTG9No: 0.8672788272440056
+      loka81: 0.38477123
+      loolwR: 0.18803821763857242
+      loqhgyj2t66yN: 0.06724888
+      mobileName: moto e(7) plus
+      mocoJK: 0.9398572476173621
+      model: 'motorola#motoe(7)plus'
+      mogoCG: true
+      moofn: true
+      moogq: true
+      mowuBDrRKf: false
+      neczRr6eY81u: 676
+      nehiiA: wrPj2Tf
+      networkOperator: ''
+      networkOperatorName: ''
+      networkType: wifi
+      neyvh0iLeu8ibw8Ob: 0.07630533
+      nezlgs0aHZDg3Tl: 0.3599488245617759
+      nublRvFFb4LxRs: 0.36691308
+      nubp4xmTAp: grwuqWp
+      nucbZw5EpZjJj: tgkT9uR
+      nugiz6DqbhNv: 384
+      nuixSA7: 0.3125594466345588
+      numberOfApplications: '317'
+      numberOfPhotos: '150'
+      numberOfSongs: '0'
+      numberOfVideos: '2'
+      nuwqYfI02pT2e0qz: 0.19169262941104936
+      nuxzGezjsXlg8: 0.34957272
+      opdb2TPCUiLSif: wbyjzcL
+      operatorName: ''
+      opps7c0eWb1Xg: 0.18213439
+      oprb2G: true
+      os: '10'
+      oszq1: 0.20466208
+      phlo5wwTuopO1nK0f: true
+      phnfNC: true
+      phoneAvailableRam: 1.4451GB
+      phoneOs: Android
+      phoneTotalRam: 3.6395GB
+      phonecardCount: '0'
+      phphnC3HWo: af5Vwas
+      phpotw3CA: 0.9946198687631179
+      phuxr4: 0.512561593027141
+      phxhwE5H: true
+      prgaTpR: vtZw7d1
+      prnsdc: 313
+      product: guam_retail
+      projaD: 749
+      raal4l: true
+      radioVersion: HA10_11.167.01.82R GUAM_LATAM_CUST
+      rallf: 963
+      regoHP: false
+      rehrfJ1uhdiqaY5K: vhym99P
+      resb7Vue: 0.8247127183340179
+      resolution: '720,1515'
+      resolutionHeight: '1515'
+      resolutionWidth: '720'
+      resuY: epsIGwx
+      rexfUpK0IW: 0.18402307171223153
+      roinY: false
+      romrrkH: 654
+      rooted: '0'
+      roqsGHK: false
+      rorpo3l3: 432
+      routerMac: '98:f1:81:0c:cc:82'
+      rubofrec7: false
+      runtimeAvailableMemory: 0.1740GB
+      runtimeMaxMemory: 0.1875GB
+      ruqadO: wtNu6Gr
+      rusqA0jX2HcE: vp4puXz
+      sdDjfnTi: ut3KYVK
+      siij9mNI: true
+      simState: '0'
+      simapNL: 0.31987447
+      simulator: '0'
+      siqeDm0Sc: yitVWQf
+      sivnkd: true
+      timeZone: 'GMT+08:00'
+      tiwkc1c8: mwmkn3V
+      tiwuF3U: 0.47549582
+      toevTI0dh: true
+      totalStorage: 47.1387GB
+      turnOnTime: '2023-03-24 19:01:15'
+      tuska91D5: 824
+      uuid: 834fb82ac5c5b0ae617fd7f9c76f3f496365cc8141aadba432188aba9de4f5d3
+      uuidOriginal: >-
+        [-125, 79, -72, 42, -59, -59, -80, -82, 97, 127, -41, -7, -57, 111, 63,
+        73, 99, 101, -52, -127, 65, -86, -37, -92, 50, 24, -118, -70, -99, -28,
+        -11, -45]
+      uujqjYxHj: 0.6709730098189124
+      uunmKL: 577
+      uutpDg: 11
+    work:
+      income: '5'
+      payDay: ''
+      post: '0'
+      salaryType: '0'
+      secondPayDay: ''
+      sourceIncome: '0'
+      workPost: '1'
+      workTime: '2'
+
+
+

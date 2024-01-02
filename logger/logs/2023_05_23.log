@@ -1,0 +1,3579 @@
+[2023-05-23 09:56:49,047] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 09:56:49,048] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 09:56:49,048] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 09:56:49,111] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848070083610341', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:56:49,112] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:56:49,112] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 09:56:49,113] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 09:56:49,424] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '20e50818a7b2fc4647c51b843629a1fb'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848070084250339', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:56:49,433] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:56:49,435] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:56:49,435] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 09:56:49,436] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 09:56:49,643] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848070087450339",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 09:56:49,645] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:20,685] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 09:59:20,686] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 09:59:20,686] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 09:59:20,754] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16848071599990341', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:20,755] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:20,755] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 09:59:20,756] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 09:59:21,092] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '2652a64286894ccba605ccb56c48ae1b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16848071600670333', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:21,099] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:21,101] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:21,101] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 09:59:21,102] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 09:59:21,311] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848071604090349",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 09:59:21,313] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:40,387] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 09:59:40,388] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 09:59:40,388] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 09:59:40,435] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848071797000345', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:40,436] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:40,436] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 09:59:40,437] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 09:59:40,748] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '05263c343ec255f9c54c8d8e0e8fc9b0'}, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848071797450329', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:40,755] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:40,756] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:40,756] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 09:59:40,757] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 09:59:40,964] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848071800640337",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 09:59:40,966] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:50,969] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 09:59:50,970] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 09:59:50,970] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 09:59:51,014] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848071902820339', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:51,014] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:51,015] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 09:59:51,015] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 09:59:51,331] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '091713f6d11215fa7f9470afa9226177'}, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848071903220343', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 09:59:51,338] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:51,339] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:51,340] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 09:59:51,340] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 09:59:52,000] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848071906540341",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 09:59:52,003] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:52,017] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:52,019] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:52,019] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 09:59:52,020] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 09:59:52,734] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848071913330341",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 09:59:52,737] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:52,738] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:52,740] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:52,740] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 09:59:52,740] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 09:59:53,293] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848071920470343",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 09:59:53,295] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 09:59:53,296] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 09:59:53,298] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 09:59:53,299] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 09:59:53,299] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 09:59:53,921] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848071926110335",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 09:59:53,923] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:07:48,843] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:07:48,844] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:07:48,844] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:07:48,918] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848076681430351', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:07:48,919] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:07:48,920] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:07:48,920] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:07:49,246] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'b73b8bdec9239d9f07e2244fb1540519'}, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848076682160347', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:07:49,270] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:07:49,272] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:07:49,272] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:07:49,273] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:07:49,923] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848076685690331",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:07:50,115] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:07:50,117] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:07:50,119] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:07:50,119] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:07:50,120] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:07:50,772] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848076694150339",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:07:50,840] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:07:50,841] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:07:50,842] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:07:50,843] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:07:50,843] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:07:51,402] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848076701430341",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:07:51,479] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:07:51,480] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:07:51,481] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:07:51,482] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:07:51,482] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:07:52,053] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848076707830345",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:07:52,122] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:09:48,032] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:09:48,033] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:09:48,033] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:09:48,073] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848077873290335', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:09:48,074] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:09:48,074] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:09:48,075] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:09:48,404] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '647f27b3b22cd26c710af87cf4962e43'}, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848077873690351', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:09:48,412] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:09:48,413] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:09:48,413] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:09:48,414] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:09:48,990] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848077877080345",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:09:49,127] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:09:49,129] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:09:49,130] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:09:49,130] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:09:49,131] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:09:49,690] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848077884310349",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:09:49,724] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:09:49,726] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:09:49,727] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:09:49,728] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:09:49,728] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:09:50,275] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848077890220349",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:09:50,308] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:09:50,310] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:09:50,311] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:09:50,312] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:09:50,312] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:09:50,843] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848077896100347",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:09:50,874] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:13:46,983] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:13:46,983] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:13:46,984] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:13:47,075] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848080262760337', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:13:47,075] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:13:47,076] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:13:47,076] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:13:47,418] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '0445ec111805df3036652135b17d11ce'}, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848080263670353', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:13:47,426] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:13:47,427] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:13:47,427] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:13:47,428] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:13:48,094] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848080267180347",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:13:48,282] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:13:48,283] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:13:48,284] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:13:48,285] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:13:48,285] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:13:48,859] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848080275790351",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:13:48,925] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:13:48,927] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:13:48,928] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:13:48,929] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:13:48,929] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:13:49,501] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848080282210351",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:13:49,573] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:13:49,575] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:13:49,577] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:13:49,577] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:13:49,578] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:13:50,107] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848080288700349",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:13:50,166] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:14:20,478] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:14:20,479] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:14:20,479] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:14:20,522] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848080597710347', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:14:20,523] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:14:20,523] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:14:20,524] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:14:20,868] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '832622baf7c17b46252ddabef2f08c00'}, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16848080598140343', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:14:20,883] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:14:20,884] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:14:20,884] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:14:20,885] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:14:21,440] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848080601780359",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:14:21,442] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:14:21,447] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:14:21,449] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:14:21,449] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:14:21,450] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:14:22,018] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848080607420347",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:14:22,023] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:14:22,026] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:14:22,028] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:14:22,029] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:14:22,030] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:14:22,581] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848080613210339",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:14:22,583] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:14:22,585] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:14:22,586] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:14:22,587] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:14:22,587] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:14:23,127] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848080618810355",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:14:23,128] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:19:20,119] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:19:20,120] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:19:20,120] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:19:20,154] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848083594080365', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:19:20,154] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:19:20,155] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:19:20,155] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:19:20,458] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '623ff4117f956ad3185ebdc63d7cfd22'}, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16848083594420363', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:19:20,467] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:19:20,468] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:19:20,469] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:19:20,469] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:19:21,037] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848083597570369",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:19:21,233] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:19:21,235] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:19:21,236] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:19:21,237] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:19:21,237] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:19:22,146] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848083605260365",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:19:22,239] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:19:22,241] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:19:22,242] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:19:22,243] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:19:22,243] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:19:22,767] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848083615280371",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:19:22,852] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:19:22,854] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:19:22,855] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:19:22,855] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:19:22,856] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:19:23,706] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848083621420361",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:19:23,795] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:26:10,177] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:26:10,177] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:26:10,178] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:26:10,242] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848087694570369', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:26:10,243] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:26:10,244] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:26:10,245] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:26:10,582] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '25f3420fe28106e7f7cf584511322679'}, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848087695270375', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:26:10,591] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:26:10,592] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:26:10,593] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:26:10,593] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:26:11,255] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848087698710363",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:26:11,260] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:26:11,267] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:26:11,268] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:26:11,269] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:26:11,269] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:26:11,912] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848087705490355",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:26:11,915] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:26:11,917] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:26:11,925] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:26:11,926] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:26:11,927] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:26:12,579] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848087712080367",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:26:12,582] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:26:12,584] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:26:12,596] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:26:12,597] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:26:12,597] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:26:13,174] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848087718750365",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:26:13,177] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:27:49,498] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:27:49,499] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:27:49,500] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:27:49,544] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16848088687780373', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:27:49,544] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:27:49,545] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:27:49,545] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:27:49,871] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'd0256c2d5585925441b25aad3366f939'}, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848088688220375', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:27:49,892] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:27:49,895] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:27:49,896] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:27:49,896] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:27:50,528] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848088691770369",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:27:50,532] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:27:50,547] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:27:50,549] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:27:50,550] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:27:50,550] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:27:51,164] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848088698290365",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:27:51,169] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:27:51,171] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:27:51,174] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:27:51,175] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:27:51,175] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:27:51,729] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848088704520373",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:27:51,732] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:27:51,734] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:27:51,735] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:27:51,736] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:27:51,736] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:27:52,296] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848088710190379",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:27:52,308] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:29:17,597] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:29:17,598] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:29:17,598] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:29:17,661] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848089568750367', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:29:17,662] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:29:17,663] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:29:17,663] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:29:18,008] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '529b568b59498bc7ed346c691e6fc581'}, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848089569400359', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:29:18,015] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:29:18,017] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:29:18,017] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:29:18,018] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:29:18,654] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848089573000371",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:29:18,658] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:29:18,660] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:29:18,671] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:29:18,672] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:29:18,672] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:29:19,252] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848089579470369",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:29:19,255] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:29:19,256] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:29:19,263] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:29:19,263] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:29:19,264] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:29:19,838] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848089585390375",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:29:19,841] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:29:19,843] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:29:19,844] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:29:19,845] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:29:19,845] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:29:20,414] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848089591200377",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:29:20,416] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:32:58,748] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:32:58,749] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:32:58,749] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:32:58,817] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848091780250381', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:32:58,817] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:32:58,818] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:32:58,819] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:32:59,139] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '45929005357b01573b1e1b7b9779def2'}, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848091780910369', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:32:59,146] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:32:59,147] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:32:59,148] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:32:59,148] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:32:59,804] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848091784200361",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:32:59,805] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:32:59,807] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:32:59,808] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:32:59,809] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:32:59,809] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:33:00,387] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848091790800373",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:33:00,390] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:33:00,405] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:33:00,406] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:33:00,407] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:33:00,407] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:33:00,970] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848091796800371",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:33:00,971] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:33:00,973] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:33:00,975] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:33:00,975] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:33:00,976] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:33:01,533] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848091802550377",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:33:01,535] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:33:01,537] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:33:01,538] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:33:01,538] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 10:33:01,539] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 10:33:01,752] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848091808110379",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 10:33:01,754] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:53:22,006] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:53:22,006] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:53:22,007] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:53:22,049] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848104012600373', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:53:22,050] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:53:22,050] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:53:22,051] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:53:22,371] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '72c31cc8dc7562988ef60cd7fb048fcd'}, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848104013060385', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:53:22,380] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:53:22,381] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:53:22,382] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:53:22,382] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:53:23,005] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848104016350391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:53:23,007] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:53:23,009] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:53:23,010] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:53:23,011] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:53:23,012] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:53:23,571] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848104022640379",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:53:23,577] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:53:23,584] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:53:23,588] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:53:23,589] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:53:23,590] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:53:24,160] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848104028460383",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:53:24,161] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:53:24,163] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:53:24,165] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:53:24,165] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:53:24,166] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:53:24,721] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848104034250385",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:53:24,724] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:54:27,997] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:54:27,997] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:54:27,998] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:54:28,043] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848104672510387', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:54:28,051] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:54:28,051] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:54:28,052] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:54:28,381] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '681d004208f004005f5c8fabde74d08b'}, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16848104673060383', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:54:28,406] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:54:28,409] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:54:28,409] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:54:28,410] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:54:29,005] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848104676630391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:54:29,009] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:54:29,010] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:54:29,016] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:54:29,017] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:54:29,017] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:54:29,577] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848104682670393",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:54:29,580] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:54:29,583] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:54:29,585] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:54:29,586] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:54:29,586] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:54:30,140] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848104688390391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:54:30,147] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:54:30,151] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:54:30,153] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:54:30,153] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:54:30,153] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:54:30,727] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848104694080377",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:54:30,730] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:29,121] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:55:29,121] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:55:29,121] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:55:29,173] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848105283750383', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:55:29,174] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:29,174] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:55:29,175] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:55:29,497] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '27dc7b54de05a225e72fae615f4011b6'}, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848105284310389', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:55:29,504] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:29,505] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:29,506] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:29,506] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:30,147] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848105287560387",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:30,155] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:30,160] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:30,166] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:30,167] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:30,168] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:30,736] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848105294210395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:30,738] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:30,740] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:30,745] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:30,746] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:30,746] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:31,292] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848105300030389",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:31,294] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:31,296] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:31,297] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:31,298] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:31,298] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:31,879] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848105305500385",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:31,881] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:52,219] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:55:52,220] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:55:52,220] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:55:52,263] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848105514710395', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:55:52,263] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:52,264] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:55:52,264] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:55:52,621] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '7f2a58c059074f17aa77c5815db1c41c'}, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848105515210393', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:55:52,630] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:52,631] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:52,632] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:52,632] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:53,219] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848105518870379",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:53,222] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:53,224] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:53,225] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:53,226] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:53,227] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:53,812] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848105524820385",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:53,814] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:53,816] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:53,820] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:53,821] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:53,822] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:54,379] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848105530710391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:54,386] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:55:54,392] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:55:54,393] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:55:54,394] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:55:54,394] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:55:54,927] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848105536430389",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:55:54,929] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:57:48,277] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:57:48,278] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:57:48,278] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:57:48,343] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848106675300397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:57:48,344] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:57:48,344] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:57:48,345] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:57:48,663] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'cf9e5c176c1910e9f7edf48d4590db2d'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848106675920391', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:57:48,678] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:57:48,680] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:57:48,681] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:57:48,681] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:57:49,317] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848106679340387",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:57:49,319] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:57:49,321] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:57:49,322] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:57:49,323] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:57:49,323] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:57:49,906] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848106685710395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:57:49,908] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:57:49,909] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:57:49,912] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:57:49,913] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:57:49,914] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:57:50,548] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848106691610397",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:57:50,550] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:57:50,551] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:57:50,553] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:57:50,553] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:57:50,554] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:57:51,136] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848106698070395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:57:51,137] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:58:25,841] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:58:25,841] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:58:25,842] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:58:25,889] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.156.16848107050910381', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:58:25,889] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:58:25,890] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:58:25,890] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:58:26,212] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '062a7891bb00ae4ae14234b2ffd4c95e'}, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848107051360387', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:58:26,219] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:58:26,220] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:58:26,221] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:58:26,221] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:58:26,841] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848107054670393",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:58:26,843] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:58:26,845] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:58:26,847] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:58:26,848] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:58:26,848] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:58:27,407] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848107060950391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:58:27,409] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:58:27,410] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:58:27,412] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:58:27,412] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:58:27,413] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:58:27,978] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848107066580399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:58:27,982] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:58:27,987] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:58:27,989] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:58:27,991] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:58:27,992] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:58:28,554] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848107072400393",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:58:28,556] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:05,411] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:59:05,411] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:59:05,412] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:59:05,459] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16848107446600389', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:59:05,467] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:05,468] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:59:05,468] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:59:05,788] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'c784291fc40ffdb486208e95ab5f9a6e'}, 'traceId': '5f0d77c528d94d899330f156978feb30.154.16848107447140397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:59:05,797] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:05,799] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:05,799] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:05,800] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:59:06,384] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848107450480399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:59:06,392] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:06,404] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:06,406] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:06,408] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:06,409] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:59:06,995] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848107456580397",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:59:06,998] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:07,001] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:07,004] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:07,005] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:07,005] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:59:07,566] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848107462520383",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:59:07,568] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:07,570] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:07,583] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:07,584] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:07,584] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:59:08,124] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848107468320389",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:59:08,128] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:58,583] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 10:59:58,584] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 10:59:58,584] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 10:59:58,629] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848107978320395', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:59:58,630] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:58,630] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 10:59:58,631] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 10:59:58,966] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'ed8456571b21ae613a1bfcea165f5ade'}, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16848107978750393', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 10:59:58,973] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:58,974] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:58,974] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:58,975] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 10:59:59,550] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848107982250401",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 10:59:59,553] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 10:59:59,554] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 10:59:59,564] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 10:59:59,565] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 10:59:59,565] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:00:00,125] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848107988100395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:00:00,127] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:00:00,128] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:00:00,130] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:00:00,130] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:00:00,131] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:00:00,761] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848107993760391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:00:00,769] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:00:00,774] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:00:00,777] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:00:00,778] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:00:00,779] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:00:01,360] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848108000270399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:00:01,362] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:01:36,948] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:01:36,948] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:01:36,949] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:01:37,023] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848108961960401', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:01:37,023] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:01:37,024] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:01:37,024] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:01:37,332] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'bcfd1715228f85764cde46531fdeee98'}, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848108962700399', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:01:37,339] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:01:37,340] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:01:37,341] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:01:37,341] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:01:38,074] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848108965840385",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:01:38,076] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:01:38,078] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:01:38,088] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:01:38,089] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:01:38,090] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:01:38,678] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848108973400391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:01:38,680] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:01:38,681] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:01:38,684] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:01:38,685] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:01:38,685] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:01:39,247] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848108979300397",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:01:39,249] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:01:39,250] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:01:39,253] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:01:39,254] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:01:39,254] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:01:39,810] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848108984980395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:01:39,814] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:06:54,534] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:06:54,535] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:06:54,535] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:06:54,601] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848112137760403', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:06:54,601] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:54,602] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:06:54,602] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:06:54,926] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '4a2b4cc59e1de691d60c4b76af4528a8'}, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848112138420397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:06:54,935] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:06:54,936] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:54,937] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:06:54,937] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:06:55,605] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848112141760393",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:06:55,608] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:06:55,610] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:06:55,612] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:55,613] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:06:55,614] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:06:56,188] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848112148540401",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:06:56,189] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:06:56,191] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:06:56,192] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:56,193] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:06:56,193] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:06:56,744] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848112154360403",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:06:56,747] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:06:56,751] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:06:56,754] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:56,755] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:06:56,756] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:06:57,483] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848112159990401",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:06:57,485] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:06:57,486] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:06:57,487] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:06:57,488] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 11:06:57,488] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 11:06:57,802] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848112167260387",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 11:06:57,804] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:07:17,853] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:07:17,854] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:07:17,854] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:07:17,898] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.160.16848112370990393', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:07:17,899] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:17,899] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:07:17,900] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:07:18,219] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '8b842280285f5b9a36d4562b592708b5'}, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848112371410399', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:07:18,228] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:07:18,229] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:18,230] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:07:18,230] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:07:18,890] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848112374680397",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:07:18,893] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:07:18,895] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:07:18,896] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:18,896] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:07:18,896] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:07:19,477] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848112381340405",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:07:19,483] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:07:19,488] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:07:19,491] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:19,492] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:07:19,493] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:07:20,051] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848112387330399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:07:20,053] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:07:20,054] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:07:20,055] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:20,056] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:07:20,056] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:07:20,591] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848112392970395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:07:20,593] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:07:20,594] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:07:20,595] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:07:20,596] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 11:07:20,596] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 11:07:20,804] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848112398360403",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 11:07:20,807] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:08:03,184] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:08:03,185] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:08:03,185] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:08:03,238] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.162.16848112824250405', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:08:03,239] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:03,239] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:08:03,240] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:08:03,565] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '2c6210a803d58a23fc4d89713327c989'}, 'traceId': '5f0d77c528d94d899330f156978feb30.155.16848112824770403', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:08:03,574] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:08:03,576] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:03,576] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:08:03,577] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:08:04,146] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848112828130389",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:08:04,148] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:08:04,150] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:08:04,157] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:04,158] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:08:04,158] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:08:04,740] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848112833970395",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:08:04,747] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:08:04,754] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:08:04,758] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:04,759] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:08:04,760] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:08:05,314] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.153.16848112840010401",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:08:05,316] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:08:05,317] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:08:05,319] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:05,319] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:08:05,320] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:08:05,892] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.161.16848112845580399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:08:05,894] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:08:05,896] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:08:05,907] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:08:05,908] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 11:08:05,908] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 11:08:06,116] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848112851470407",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 11:08:06,118] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:01,709] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:09:01,710] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:09:01,710] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:09:01,759] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.159.16848113409480401', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:09:01,759] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:01,760] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:09:01,760] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:09:02,074] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '138e9ecdaddc09513216066b9fd4bee5'}, 'traceId': '5f0d77c528d94d899330f156978feb30.158.16848113410000397', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:09:02,082] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:02,083] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:02,084] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:02,084] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:02,674] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848113413210405",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:02,679] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:02,685] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:02,689] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:02,691] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:02,692] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:03,250] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.162.16848113419330407",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:03,252] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:03,254] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:03,255] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:03,256] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:03,256] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:03,828] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.155.16848113424970405",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:03,831] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:03,833] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:03,835] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:03,836] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:03,837] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:04,380] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.156.16848113430770391",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:04,382] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:04,384] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:04,385] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:04,386] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/repayTrialStage
+[2023-05-23 11:09:04,387] - logger_.py] - DEBUG: 接口请求的参数: null
+[2023-05-23 11:09:04,594] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u6c42\u53c2\u6570\u9519\u8bef",
+  "data": null,
+  "traceId": "5f0d77c528d94d899330f156978feb30.160.16848113436240397",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-05-23 11:09:04,597] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:32,257] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:09:32,257] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:09:32,258] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:09:32,307] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.153.16848113714950403', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:09:32,307] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:32,308] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:09:32,308] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:09:32,625] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': '2edf9188ac47cf1449d6a34d22ac40c0'}, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16848113715430401', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:09:32,632] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:32,633] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:32,634] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:32,634] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"01\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:33,221] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.157.16848113718750409",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:33,223] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:33,225] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:33,227] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:33,228] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:33,228] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"02\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:33,806] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 2510.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_02_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 800.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_02_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.159.16848113724650403",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:33,808] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:33,810] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:33,821] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:33,822] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:33,822] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"03\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:34,370] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 900.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_03_1_20220617173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.158.16848113730620399",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:34,372] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:09:34,374] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:09:34,375] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:09:34,376] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/loan/queryAvailableProduct
+[2023-05-23 11:09:34,376] - logger_.py] - DEBUG: 接口请求的参数: "{\"merchantNo\": \"04\", \"orgNo\": \"MEX\"}"
+[2023-05-23 11:09:34,941] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_04_1_20220927173142"
+    }
+  ],
+  "traceId": "5f0d77c528d94d899330f156978feb30.154.16848113736120407",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-05-23 11:09:34,943] - logger_.py] - INFO: -----------------------分割线-----------------------
+
+[2023-05-23 11:11:25,130] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-05-23 11:11:25,131] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/getRegisterStatus/52/1111599017
+[2023-05-23 11:11:25,131] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-05-23 11:11:25,199] - logger_.py] - INFO: 调用-信贷判断手机号是否注册接口：{'code': 0, 'msg': '成功', 'data': True, 'traceId': '5f0d77c528d94d899330f156978feb30.161.16848114843700403', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:11:25,201] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-05-23 11:11:25,201] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.239:7055/hc/app/noAuth/logon/login
+[2023-05-23 11:11:25,202] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"password\": \"\", \"flag\": 1, \"phone\": \"1111599017\", \"shortNo\": \"9999\"}"
+[2023-05-23 11:11:25,525] - logger_.py] - INFO: 调用-信贷登录接口：{'code': 0, 'msg': '成功', 'data': {'token': 'be382fbcb3638a89d18cc940b2104e37'}, 'traceId': '5f0d77c528d94d899330f156978feb30.157.16848114844450411', 'paginNation': {'total': 0, 'pageNo': 0, 'pageSize': 0, 'pages': 0}, 'skyWalkingDynamicField': None, 'success': True}
+[2023-05-23 11:11:25,534] - logger_.py] - INFO: -----------------------分割线-----------------------
+[2023-05-23 11:11:25,536] - logger_.py] - INFO: -----------------------分割线-----------------------
+

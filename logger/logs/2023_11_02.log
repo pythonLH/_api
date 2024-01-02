@@ -1,0 +1,6 @@
+[2023-11-02 17:52:58,524] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-11-02 17:52:58,524] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31886/hc/app/noAuth/logon/getRegisterStatus/51/914700000
+[2023-11-02 17:52:58,525] - logger_.py] - DEBUG: 接口请求的参数: {}
+[2023-11-02 17:54:33,966] - logger_.py] - DEBUG: 接口请求的方式：GET
+[2023-11-02 17:54:33,966] - logger_.py] - DEBUG: 接口请求的地址: http://192.168.122.155:31886/hc/app/noAuth/logon/getRegisterStatus/51/914700000
+[2023-11-02 17:54:33,967] - logger_.py] - DEBUG: 接口请求的参数: {}

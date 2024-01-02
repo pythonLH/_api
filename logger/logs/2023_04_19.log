@@ -1,0 +1,642 @@
+[2023-04-19 17:21:28,680] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 17:21:28,680] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 17:21:28,681] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 17:21:28,687] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -2,
+  "msg": "UNLAWFUL_VISIT",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 17:21:28,769] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 17:21:28,770] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 17:21:28,770] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 17:21:28,774] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -2,
+  "msg": "UNLAWFUL_VISIT",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 17:21:28,779] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 17:21:28,779] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 17:21:28,779] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 17:21:28,783] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -2,
+  "msg": "UNLAWFUL_VISIT",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 17:21:28,788] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 17:21:28,789] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 17:21:28,790] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 17:21:28,794] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -2,
+  "msg": "UNLAWFUL_VISIT",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:39:36,307] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:39:36,307] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:39:36,308] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:39:36,381] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:39:36,468] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:39:36,468] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:39:36,469] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:39:36,548] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:39:36,563] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:39:36,564] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:39:36,566] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:39:36,656] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:39:36,660] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:39:36,661] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:39:36,661] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:39:36,741] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:40:55,334] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:40:55,335] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:40:55,335] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:40:55,416] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:40:55,493] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:40:55,493] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:40:55,494] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:40:55,569] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:40:55,574] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:40:55,574] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:40:55,575] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:40:55,653] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:40:55,660] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:40:55,661] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:40:55,661] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:40:55,747] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -10,
+  "msg": "LOGIN_EXPIRE",
+  "paginNation": {
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0,
+    "total": 0
+  },
+  "success": false
+}
+[2023-04-19 18:42:05,745] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:42:05,746] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:42:05,746] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:42:05,951] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.159.16819009247080231",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:42:06,044] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:42:06,045] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:42:06,045] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:42:06,426] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.157.16819009250080235",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:42:06,431] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:42:06,432] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:42:06,432] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:42:07,268] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.161.16819009253930231",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:42:07,273] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:42:07,273] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:42:07,274] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:42:07,608] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.154.16819009262340233",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-19 18:43:34,692] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:43:34,692] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:43:34,693] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:43:34,888] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.162.16819010136540227",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:43:34,895] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:43:34,896] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:43:34,897] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:43:35,415] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.158.16819010138570221",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:43:35,424] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:43:35,426] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:43:35,429] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:43:36,642] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.160.16819010143910225",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:43:36,645] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:43:36,646] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:43:36,646] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:43:36,996] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.155.16819010156090239",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-19 18:47:29,533] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:47:29,534] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:47:29,534] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:47:29,776] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.155.16819012484910245",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:47:29,777] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:47:29,778] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:47:29,778] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:47:30,288] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.162.16819012487340235",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:47:30,293] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:47:30,295] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:47:30,297] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:47:31,372] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.160.16819012492560233",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:47:31,374] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:47:31,375] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:47:31,376] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:47:31,759] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.157.16819012503420247",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-19 18:50:15,296] - logger_.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-19 18:50:15,297] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:15,297] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:50:15,297] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:50:15,550] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.156.16819014142540237",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:50:15,551] - logger_.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-19 18:50:15,552] - logger_.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-19 18:50:15,552] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:15,553] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:50:15,553] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:50:16,061] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.154.16819014145070245",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:50:16,062] - logger_.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-19 18:50:16,063] - logger_.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-19 18:50:16,064] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:16,064] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:50:16,065] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:50:17,079] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.159.16819014150190245",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:50:17,080] - logger_.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-19 18:50:17,082] - logger_.py] - INFO: -----------------------开始执行测试用例-----------------------
+
+[2023-04-19 18:50:17,083] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:17,084] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:50:17,084] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:50:17,434] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.155.16819014160430247",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-19 18:50:17,511] - logger_.py] - INFO: -----------------------结束执行测试用例-----------------------
+[2023-04-19 18:50:59,620] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-19 18:50:59,620] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:59,621] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveDeviceInfo
+[2023-04-19 18:50:59,621] - logger_.py] - DEBUG: 接口请求的参数: "{\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5420GB\", \"battery\": \"100\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.6390GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0055GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}"
+[2023-04-19 18:50:59,818] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.162.16819014585760237",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:50:59,819] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-19 18:50:59,820] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-19 18:50:59,820] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:50:59,821] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/userInfo/saveAddressBook
+[2023-04-19 18:50:59,821] - logger_.py] - DEBUG: 接口请求的参数: "[{\"addressBookId\": \"19\", \"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"lastTime\": \"1638259595590\", \"saveTime\": \"1638259595590\"}, {\"addressBookId\": \"20\", \"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"lastTime\": \"1638259664781\", \"saveTime\": \"1638259664781\"}, {\"addressBookId\": \"21\", \"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"lastTime\": \"1638259709390\", \"saveTime\": \"1638259709390\"}, {\"addressBookId\": \"174\", \"contactName\": \"love\", \"contactPhone\": \"639851615336\", \"lastTime\": \"1675066553839\", \"saveTime\": \"1675066553839\"}]"
+[2023-04-19 18:51:00,271] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.160.16819014587750235",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:51:00,273] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-19 18:51:00,275] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-19 18:51:00,275] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:51:00,276] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/loan/queryAvailableProduct
+[2023-04-19 18:51:00,276] - logger_.py] - DEBUG: 接口请求的参数: "{\"dayRate\": \"0.77\", \"expectedInstallment\": 0, \"isNew\": \"1\", \"merchantNo\": \"01\", \"orgNo\": \"MEX\", \"prductPayAmountMax\": 1300, \"prductPayAmountMin\": 300, \"productAmount\": 0, \"productFastPayTime\": \"50\", \"productIntroduce\": \"testhhh\", \"productLoanTerm\": \"1\", \"productName\": \"Pr\\u00e9stamos seguros\", \"productNo\": \"\", \"productPictureUrl\": \"/upload/image/20220803/2022080301312987180381.png\", \"productTerm\": 0, \"showPeriod\": 0, \"userExpectedAmount\": 0, \"userExpectedTerm\": 0}"
+[2023-04-19 18:51:01,365] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": 0,
+  "msg": "\u6210\u529f",
+  "data": [
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 8,
+      "installmentNum": 1,
+      "fistInstallmentDays": 8,
+      "productNo": "MEX_01_1_20220617173142"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 15,
+      "installmentNum": 1,
+      "fistInstallmentDays": 15,
+      "productNo": "MEX_01_1_20220617173155"
+    },
+    {
+      "maxLoanAmount": 1000.0,
+      "loanDay": 10,
+      "installmentNum": 1,
+      "fistInstallmentDays": 10,
+      "productNo": "MEX_01_1_20220927173142"
+    }
+  ],
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.157.16819014592290249",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": true
+}
+[2023-04-19 18:51:01,366] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
+[2023-04-19 18:51:01,368] - logger_.py] - INFO: -----------------------用例开始得分割线-----------------------
+
+[2023-04-19 18:51:01,369] - logger_.py] - DEBUG: 接口请求的方式：POST
+[2023-04-19 18:51:01,369] - logger_.py] - DEBUG: 接口请求的地址: /hc/app/market/submitOneProduct
+[2023-04-19 18:51:01,370] - logger_.py] - DEBUG: 接口请求的参数: "{\"promotionChannels\": \"googlePlay\", \"firstExpectDay\": 121, \"work\": {\"income\": \"1\", \"incomeLabel\": \"1\\u4e07-1.5\\u4e07\", \"payDay\": \"5\", \"post\": \"6\", \"postLabel\": \"\\u519c\\u6c11\", \"workTime\": \"7\", \"workTimeLabel\": \"3-5\\u5e74\"}, \"sign\": {\"adbEnabled\": 1, \"androidId\": \"1293af837ebecb51\", \"availableStorage\": \"95.5419GB\", \"battery\": \"99\", \"codeName\": \"REL\", \"cpu\": \"arm64-v8a\", \"cpuCores\": \"8\", \"cpuInfo\": \" Qualcomm Technologies, Inc SDM660\", \"cpuSpeed\": \"1843200KHz\", \"currentWifi\": \"\\\"HAI-INNER\\\"\", \"detailAddress\": \"\", \"deviceLanguage\": \"zh\", \"deviceMac\": \"38:6E:A2:F0:C6:99\", \"deviceModel\": \"vivo#vivo X20A\", \"deviceSerial\": \"b605da0c\", \"deviceSoftwareVersion\": \"96\", \"deviceVersionType\": \"user\", \"displayMetrics\": \"1080,2160\", \"fingerPrint\": \"vivo/PD1709/PD1709:8.1.0/OPM1.171019.011/compil07282320:user/release-keys\", \"gaid\": \"\", \"hardware\": \"qcom\", \"imei\": \"867368038337617\", \"imsi\": \"\", \"lag\": \"\", \"lng\": \"\", \"mobileName\": \"vivo X20A\", \"model\": \"vivo#vivo X20A\", \"networkOperator\": \"\", \"networkOperatorName\": \"\", \"networkType\": \"wifi\", \"os\": \"8.1.0\", \"phoneAvailableRam\": \"1.4318GB\", \"phoneOs\": \"Android\", \"phoneTotalRam\": \"3.8951GB\", \"product\": \"PD1709\", \"radioVersion\": \"660_GEN_PACK-1.169733.1.227857.2\", \"resolution\": \"1080,2160\", \"resolutionHeight\": \"2160\", \"resolutionWidth\": \"1080\", \"rooted\": 0, \"routerMac\": \"98:f1:81:0c:cb:e2\", \"runtimeAvailableMemory\": \"0.0007GB\", \"runtimeMaxMemory\": \"0.2684GB\", \"simState\": \"0\", \"simulator\": \"0\", \"timeZone\": \"GMT+08:00\", \"totalStorage\": \"115.5784GB\", \"uuid\": \"756f517475674e616a4b4c6f616956426663527158774c6d616b73484f686300\", \"uuidOriginal\": \"[117, 111, 81, 116, 117, 103, 78, 97, 106, 75, 76, 111, 97, 105, 86, 66, 102, 99, 82, 113, 88, 119, 76, 109, 97, 107, 115, 72, 79, 104, 99, 0]\"}, \"s2sSendEventDto\": {\"appId\": \"com.loans.customer.application\", \"appsflyerId\": \"Mu9Lvw3vMLLhv3MQyRvLx4\", \"gaid\": \"\", \"uuid\": \"1679628344563-6496815496248\"}, \"usePromoCode\": 0, \"bank\": {\"attach\": [{\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680259237272.jpg\", \"md5\": \"00BA824D9674CCA5D857C894F1C072E3\", \"newName\": \"20230419105335145505118.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105335145505118.jpg\", \"originalAttachName\": \"1680259237272.jpg\", \"originalName\": \"1680259237272.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"sfzzm\", \"size\": 2102647, \"uploadType\": \"file\"}, {\"channel\": \"app\", \"localPath\": \"/storage/emulated/0/Download/images/1680255435029.jpg\", \"md5\": \"16CA87A606214A894BD29E2468EA59E5\", \"newName\": \"20230419105412145658541.jpg\", \"newPathName\": \"/upload/file/20230419/20230419105412145658541.jpg\", \"originalAttachName\": \"1680255435029.jpg\", \"originalName\": \"1680255435029.jpg\", \"path\": \"/upload/file/20230419\", \"purpose\": \"scsfz\", \"size\": 2322111, \"uploadType\": \"file\"}], \"idCard\": \"0484644848\", \"idCardRegex\": \"^\\\\d{10}$\", \"idCardType\": \"5\", \"idCardTypeLabel\": \"SSS ID\", \"placeholder\": \"0123456789\", \"prefix\": \"\"}, \"firstExpectAmount\": 3300, \"orgNo\": \"CG\", \"appList\": [{\"appName\": \"\\u751f\\u6d3b\\u94b1\\u5305\", \"appVersion\": \"1.0.0\", \"firstInstallTime\": \"2022-04-18 19:01:13\", \"lastUpdateTime\": \"2022-04-18 19:47:43\", \"packageName\": \"com.life.wallet\"}, {\"appName\": \"\\u6743\\u9650\\u7ba1\\u7406\", \"appVersion\": \"4.5.5.1\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.permissionmanager\"}, {\"appName\": \"\\u5feb\\u5e94\\u7528\", \"appVersion\": \"1.10.2.202\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 02:26:57\", \"packageName\": \"com.vivo.hybrid\"}, {\"appName\": \"vivo\\u684c\\u9762\", \"appVersion\": \"5.0.6.9\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-10-14 04:01:15\", \"packageName\": \"com.bbk.launcher2\"}, {\"appName\": \"\\u7535\\u8bdd\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.dialer\"}, {\"appName\": \"QQ\", \"appVersion\": \"8.9.25\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2023-01-04 11:42:13\", \"packageName\": \"com.tencent.mobileqq\"}, {\"appName\": \"\\u8f6f\\u4ef6\\u5305\\u5b89\\u88c5\\u7a0b\\u5e8f\", \"appVersion\": \"12.3.2.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-11-16 03:53:02\", \"packageName\": \"com.android.packageinstaller\"}, {\"appName\": \"\\u9605\\u56fe\\u9501\\u5c4f\\u670d\\u52a1\", \"appVersion\": \"4.3.1.2\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.vivo.magazine\"}, {\"appName\": \"\\u5168\\u5c40\\u5185\\u5bb9\\u8bc6\\u522b\", \"appVersion\": \"8.6.0.4\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-12 18:28:35\", \"packageName\": \"com.vivo.contentcatcher\"}, {\"appName\": \"\\u7cfb\\u7edf\\u754c\\u9762\", \"appVersion\": \"4.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.android.systemui\"}, {\"appName\": \"\\u8d85\\u7ea7\\u7701\\u7535\", \"appVersion\": \"4.0.6\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2009-01-01 00:00:00\", \"packageName\": \"com.bbk.SuperPowerSave\"}, {\"appName\": \"\\u6d4f\\u89c8\\u5668\", \"appVersion\": \"12.9.0.0\", \"firstInstallTime\": \"2009-01-01 00:00:00\", \"lastUpdateTime\": \"2022-12-13 06:09:05\", \"packageName\": \"com.vivo.browser\"}, {\"appName\": \"\\u6dd8\\u5b9d\", \"appVersion\": \"10.18.10\", \"firstInstallTime\": \"1974-01-24 01:52:58\", \"lastUpdateTime\": \"2022-11-29 09:36:59\", \"packageName\": \"com.taobao.taobao\"}], \"applyLoanAmount\": 3300, \"configPayout\": true, \"adjustDto\": {\"appToken\": \"ifuidhmsevb4\"}, \"customerSource\": \"com.loans.customer.application\", \"newOrder\": \"1\", \"payoutPaymentConfig\": {\"bankConfig\": {\"bankCard\": \"\", \"bankType\": {\"label\": \"\", \"value\": \"\"}, \"name\": \"\"}, \"ewalletConfig\": {\"accountHolder\": \"dbhd,dbbd\", \"accountNo\": \"09234191046\"}, \"paymentChildKey\": {\"label\": \"GCash\", \"value\": \"gcash\"}, \"paymentTypeKey\": {\"label\": \"E-wallect\", \"value\": \"ewallet\"}, \"payoutChannel\": \"xendit\", \"storeConfig\": {\"mobileNumber\": \"\", \"name\": \"\"}}, \"productNo\": \"CG_25_1_0_202301091038590231\", \"base\": {\"birthday\": \"1991-04-10\", \"childLabel\": \"3\", \"childNum\": \"3\", \"education\": \"3\", \"educationLabel\": \"\\u9ad8\\u4e2d\", \"email\": \"q@qq.com\", \"facebook\": \"facebook\", \"familyName\": \"dbhd\", \"givenName\": \"dbbd\", \"instancyContacts\": [{\"contactName\": \"amy one\", \"contactPhone\": \"09450000111\", \"contactRealName\": \"amy one\", \"contactRelation\": \"0\", \"contactRelationLabel\": \"\\u914d\\u5076\", \"sort\": 0}, {\"contactName\": \"amy two\", \"contactPhone\": \"09450000001\", \"contactRealName\": \"amy two\", \"contactRelation\": \"1\", \"contactRelationLabel\": \"\\u5144\\u5f1f\\u59d0\\u59b9\", \"sort\": 0}, {\"contactName\": \"amy3\", \"contactPhone\": \"09450000003\", \"contactRealName\": \"amy3\", \"contactRelation\": \"2\", \"contactRelationLabel\": \"\\u7236\\u6bcd\", \"sort\": 0}], \"maritalStatus\": \"2\", \"maritalStatusLabel\": \"\\u5df2\\u5a5a\", \"middleName\": \"\", \"placeAddress\": \"zbvdd\", \"placeAddressLabel\": \"CAGAYAN ABULUG Calog Sur\", \"placeCity\": \"0006\", \"placeCounty\": \"0006342\", \"placeDistrict\": \"000634203301\", \"placeTime\": \"8\", \"placeTimeLabel\": \"5-10\\u5e74\", \"propertyInfo\": \"4\", \"propertyInfoLabel\": \"\\u6709\\u8f66\\u6709\\u623f\", \"sex\": \"2\", \"sysPlaceAddress\": \"CAGAYAN ABULUG Calog Sur zbvdd\", \"uname\": \"dbhd,dbbd\"}, \"merchantNo\": \"25\"}"
+[2023-04-19 18:51:01,691] - logger_.py] - DEBUG: 接口响应结果是:{
+  "code": -4,
+  "msg": "\u8bf7\u7a0d\u540e\u518d\u8bd5",
+  "data": null,
+  "traceId": "662f8e9e8fac4c01a14f43ffc306be7f.158.16819014603260233",
+  "paginNation": {
+    "total": 0,
+    "pageNo": 0,
+    "pageSize": 0,
+    "pages": 0
+  },
+  "skyWalkingDynamicField": null,
+  "success": false
+}
+[2023-04-19 18:51:01,770] - logger_.py] - INFO: -----------------------用例结束得分割线-----------------------
